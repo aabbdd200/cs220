@@ -1,0 +1,860 @@
+Abdelrahman Haitham Alkhatib
+2241148076
+
+
+
+
+Script started on 2026-10-19 09:45:31+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ git cloneV[K b [1P [C k [1P b j [1P [1P [K[C [C[C [1@j[1@b[1@d[1@c[1P[1P[1P[1P[7mgit clone [27m[C[C[C[C[C[C[C[C[C[Cgit clone [C[C[C [1@i[1@j[1@o[1@d[1P[1P[1P[1P[1@h[1@c[1@d[1@i[1@k[1P[1P[1P[1P[1P[1@C[1@C[1@V[1P[1P[1P[C[C[K[C[C[C [1@g[1@i[1@t[1@@[1@g[1@u[1@t[1P[1P[1P[1@g[1@i[1@t[1@h[1@u[1@b[1@.[1@c[1@o[1@m[1@:[1@c[1@c[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[K[1P[1P[1P[1P[1P[C[C[K[1P[1P[1P[1@s[1@u[1P[1P[1@g[1@i[1@t[C[C[C [1@c[1@o[1@l[1@o[1@n[1@e[C[C[C [C[C[K[1P[1P[1P[1P[1P[1@l[1@o[1@n[1@e[C[C[C [1@<[1@g[1@i[1@t[1@>[1P[1@@[1@g[1@i[1@t[1@h[1@u[1@b[1@.[1@c[1@o[1@m[1@:[1@K[1@u[1@c[1P[1P[1@U[1@C[1@2[1@2[1@0[1@\[1P[1@/[1@2[1@2[1@0[1@-[1@p[1@r[1@o[1@f[1P[1@g[1@ra    [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm
+ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci
+[C [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn [C [1@g[1@-[1@i[1@n[1@.[1P[1@-[1@c[1@-[1@a[1@n[1@d[1@-[1@u[1@n[1@i[1@x[1@-[1@l[1@a[1@b[1@0[1@5[1@-[1@a[1@a[1@b[1@b[1@d[1@d[1@2[1@0[1@0[1@.[1@g[1@i[1@t[1@>
+[?2004lbash: syntax error near unexpected token `newline'
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ git clone <git@github.com:KUC220/220-programing-in-c-and-unix-lab05-aabbdd200.git>   [1P[A[C[C[Cpush[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone <git@github.com:KUC220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:KUC220/220-programing-[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lCloning into '220-programing-in-c-and-unix-lab05-aabbdd200'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ ikho[K[K[K[Kgit clone git@github.com:KUC220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CS220/220-programing[1@-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lCloning into '220-programing-in-c-and-unix-lab05-aabbdd200'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [K[A[Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [Kabdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   
+[?2004lCloning into '220-programing-in-c-and-unix-lab05-aabbdd200'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   [1@M[1P[1@m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lCloning into '220-programming-in-c-and-unix-lab05-aabbdd200'...
+remote: Enumerating objects: 4, done.[K
+remote: Counting objects:  25% (1/4)[Kremote: Counting objects:  50% (2/4)[Kremote: Counting objects:  75% (3/4)[Kremote: Counting objects: 100% (4/4)[Kremote: Counting objects: 100% (4/4), done.[K
+remote: Compressing objects:  33% (1/3)[Kremote: Compressing objects:  66% (2/3)[Kremote: Compressing objects: 100% (3/3)[Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 4 (delta 0), reused 2 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  25% (1/4)Receiving objects:  50% (2/4)Receiving objects:  75% (3/4)Receiving objects: 100% (4/4)Receiving objects: 100% (4/4), done.
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ CD [K[K[Kcd 2[K[K[K[Kls
+[?2004l220-programming-in-c-and-unix-lab02-aabbdd200  220-programming-in-c-and-unix-lab05-aabbdd200  lab04.txt  record.c
+220-programming-in-c-and-unix-lab04-aabbdd200  lab02.txt				      Lab05.txt
+[?2004habdi_2006@abdi06:~/Desktop/cs220$ cd 220-programming-in-c-and-unix-lab05-aabbdd200/
+[?2004l[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ls
+[?2004lLab05Report.txt
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ history <[K>myloge.txt
+[?2004l[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ cat myloge.txt
+[?2004l    7  f
+    8  f
+    9  f
+   10  f
+   11  reverse.c
+   12  nano reverse.c
+   13  gcc reseve.c -o reseve
+   14  gcc reverse.c -o reverse
+   15  ./reverse
+   16  ./reverse
+   17  .
+   18  nano numbers.c
+   19  gcc numbers.c -o numbers
+   20  ./numbers
+   21  .
+   22  nano copy.c
+   23  gcc copy.c -o copy
+   24  ./copy
+   25  .
+   26  cd
+   27  nano s3
+   28  ls
+   29  mkdir lab03
+   30  cd lab03
+   31  vi prog.c
+   32  gcc -g -o prog prog.c
+   33  vi prog.c
+   34  gcc -g -o prog prog.c
+   35  gdb prog
+   36  gdb prog 
+   37  exit
+   38  mkdir
+   39  mkdir cs220
+   40  script lab03.txt
+   41  vi q1
+   42  vi q1
+   43  mv q1 q1.txt
+   44  vi q1.txt
+   45  vi q2.txt
+   46  vi q3.txt
+   47  rm q3.txt
+   48  vi q3.c
+   49  gcc -o q3.c
+   50  vi q3.c
+   51  vi q4.c
+   52  gcc q4.c -o q4
+   53  vi q4.c
+   54  gcc q4.c -o q4
+   55  vi q4.c
+   56  gcc q4.c -o q4
+   57  ./q4
+   58  vi q5.c
+   59  gcc -g q5.c -o q5 -lm
+   60  vi q5.h
+   61  rm q5.h
+   62  vi q5.c
+   63  gcc -g q5.c -o q5 -lm
+   64  gdb ./q5
+   65  vi q5.txt
+   66  xrandr
+   67  cd ../ cs220
+   68  pwd
+   69  cd cs220
+   70  pwd
+   71  ls
+   72  ls
+   73  cd
+   74  cd cs220
+   75  ls
+   76  mkdir lab04
+   77  cd lab04
+   78  vi record.c
+   79  gcc record.c -g record
+   80  vi record.c
+   81  gcc record.c -g record
+   82  vi record.c
+   83  gcc record.c -g record
+   84  vi record.c
+   85  gcc record.c -g record
+   86  vi record.c
+   87  gcc record.c -g record
+   88  gcc record.c -o record
+   89  ./record
+   90  ./record
+   91  ./record
+   92  ./record
+   93  ./record
+   94  ./record
+   95  d
+   96  ./record
+   97  r
+   98  r
+   99  ./record
+  100  exit
+  101  cd cs220
+  102  script lab04.txt
+  103  cd cs220
+  104  script lab05.txt
+  105  mkdir lab06
+  106  cd lab06
+  107  pwd
+  108  cp ~/Downloads/student.txt .
+  109  ls
+  110  cp ~/Downloads/student.txt
+  111  cp ~/Downloads/student.txt .
+  112  cp ~/Downloads
+  113  cp ~/Downloads
+  114  cd cs220
+  115  ls
+  116  q
+  117  exit
+  118  cd cs220
+  119  script lab06.txt
+  120  cd lab06
+  121  L6.h
+  122  vi L6.h
+  123  exit
+  124  cd cs220
+  125  script lab06.txt
+  126  mkdir lab06
+  127  exit
+  128  cd cs220
+  129  script lab06.txt
+  130  cd cs220
+  131  script lab06.txt
+  132  mkdir lab06
+  133  pwd
+  134  cd lab06
+  135  pwd
+  136  ls
+  137  vi L6.h
+  138  vi L6function.c
+  139  vi L6main.c
+  140  pwd
+  141  vi Makefile
+  142  make
+  143  vi L6.h
+  144  make clean
+  145  make
+  146  vi L6function.c
+  147  vi L6main.c
+  148  make clean
+  149  make
+  150  ./lab06 student.txt
+  151  cat probation.txt
+  152  vi lab06.txt
+  153  vi lab08.c
+  154  gcc lab08.c -o lab08
+  155  ./lab08
+  156  vi lab07.c
+  157  gcc lab07.c -o lab07
+  158  vi lab07.c
+  159  gcc lab07.c -o lab07
+  160  ./lab07
+  161  mkdir lab09
+  162  cd lab09
+  163  vi script1.sh
+  164  chmod +x script1.sh
+  165  ./script1.sh 5
+  166  vi script1.sh
+  167  chmod +x script1.sh
+  168  ./script1.sh 5
+  169  vi script1.sh
+  170  chmod +x script1.sh
+  171  ./script1.sh 5
+  172  vi script2.sh
+  173  chmod +x script2.sh
+  174  vi a.txt
+  175  vi b.txt
+  176  vi script3.sh
+  177  chmod +x script3.sh
+  178  vi numbers.txt
+  179  ./script3.sh numbers.txt
+  180  exit
+  181  cd cs220
+  182  script lab09.txt
+  183  vi script1.sh
+  184  cd cs220
+  185  mkdir lab10
+  186  cd lab10
+  187  ls
+  188  grep -nw "unix" unix.txt > grep1
+  189  cat grep1
+  190  grep -niw "unix" unix.txt > grep2
+  191  cat grep2
+  192  grep -nE '(^|[^[:alnum:]_])[0-9][[:alnum:]_]*' unix.txt > grep3
+  193  cat grep3
+  194  ls
+  195  sed '/^[0-9][0-9]*$/d' unix.txt > sed1
+  196  cat sed1
+  197  sed 's/Bell/Abdalrahman/g' unix.txt > sed2
+  198  cat sed2
+  199  ls
+  200  awk -F, '{print $4 "\t" $5 "\t" $7}' student.txt > awk1
+  201  cat awk1
+  202  cat awk1
+  203  awk -F, '$7=="Male" {print $4}' student.txt > awk2
+  204  cat awk2
+  205  cat student.txt
+  206  cat awk1
+  207  cat awk1
+  208  awk '$7=="Male" {print $4}' student.txt > awk2
+  209  cat awk2
+  210  awk '{sum += $3} END {print sum}' student.txt > awk3
+  211  cat awk3
+  212  awk '$7 ~ /Male/ {print $4}' student.txt > awk2
+  213  cat awk2
+  214  cat grep1
+  215  cat grep2
+  216  cat grep3
+  217  cat sed1
+  218  cat sed2
+  219  cat awk1
+  220  cat awk2
+  221  cat awk3
+  222  mkdir cs220b
+  223  pwd
+  224  cd cs220
+  225  cd cs220d
+  226  cd
+  227  ls
+  228  cd cs220b
+  229  mv ~/Downloads/Lab01 .
+  230  exit
+  231  cd
+  232  script Lab01.txt
+  233  script LLab1.txt
+  234  cd cs220b
+  235  ls
+  236  ls
+  237  cd cs220b
+  238  git clone <git@github.com:KUCS220/Lab01.git>
+  239  git clone <git@github.com:KUCS220/Lab01.git>
+  240  git clone <https://github.com/KUCS220/Lab01.git>
+  241  ls
+  242  ls
+  243  git clone git@github.com:KUCS220/Lab01.git
+  244  ls
+  245  git clone git@github.com:KUCS220/Lab01.git
+  246  ls
+  247  cs220b
+  248  cd cs220b
+  249  pwd
+  250  cd ..
+  251  ls
+  252  pwd
+  253  cd cs220b
+  254  ls
+  255  cd lab01
+  256  ssh-keygen -t rsa -b 4096 -c "s2241148076@gu.edu.kw
+  257  ssh-keygen -t rsa -b 4096 -c "s2241148076@ku.edu.kw
+  258  ssh-keygen -t rsa -b 4096 -c "s2241148076@gu.edu.kw
+  259  ssh-keygen -t rsa -b 4096 -c "s2241148076@ku.edu.kw
+  260  xxx
+  261  ssh-keygen -t rsa -b 4096 -C "s2241148076@ku.edu.kw"
+  262  cat ~/.ssh/id_rsa.pub
+  263  git config --global user.name "aabbdd200"
+  264  git config --global user.email "s2241148076@ku.edu.kw"
+  265  git calone git@github.com:aabbdd200/cs220.git
+  266  git clone git@github.com:aabbdd200/cs220.git
+  267  cd cs220
+  268  touch 220.txt
+  269  git add 220.txt
+  270  git commit -m "First test commit for 220"
+  271  git push
+  272  git push
+  273  git remote set-url origin git@github.com:aboodiyi/cs220.git
+  274  git remote -v
+  275  git push
+  276  git remote set-url origin git@github.com:aabbdd200/cs220.git
+  277  cd 220
+  278  cd cs220
+  279  git remote set-url origin git@github.com:aabbdd200/cs220.git
+  280  git push
+  281  cd 220
+  282  cd cs220
+  283  ls
+  284  vi 220.txt
+  285  cat 220txt
+  286  cat 220.txt
+  287  cd ..
+  288  cd
+  289  cd ..
+  290  cd Desktop
+  291  cd Desktop$
+  292  cd
+  293  cd
+  294  cd cs220
+  295  ls
+  296  cd Desktop
+  297  vi last-220
+  298  rm lasr-220
+  299  rm last-220
+  300  mkdir lasr-220
+  301  rm lasr-220
+  302  cd cs220
+  303  ls
+  304  mv l* lasr-220
+  305  cd
+  306  rm lasr-220
+  307  cd 
+  308  cd Desktop
+  309  rm lasr-220
+  310  rmdir lasr-220
+  311  cd cs220
+  312  mkdir last-semster
+  313  ls
+  314  mv 220.txt lab* script1.sh test.txt last-semster/
+  315  ls
+  316  cd last-semester
+  317  cd last-semster
+  318  ls
+  319  cd cs220
+  320  cd ..
+  321  ls
+  322  mv last-semster ..
+  323  ls
+  324  cd
+  325  cd ..
+  326  ls
+  327  cd..
+  328  cd
+  329  cd
+  330  cd
+  331  cd
+  332  ..
+  333  ls
+  334  cd Desctop
+  335  cd Desktop
+  336  ls
+  337  mv lab* last-semster
+  338  ls
+  339  rmdir cs220b
+  340  ls
+  341  rm LLab1.txt
+  342  cd
+  343  cd Desktop
+  344  ls
+  345  cd cs220
+  346  ls
+  347  cd
+  348  cd Desktop
+  349  ls
+  350  cs last-semster
+  351  cd last-semster
+  352  ls
+  353  cat
+  354  cd cs220
+  355  script lab02.txt
+  356  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  357  mkdir -p 220/Lab/codes 220/Lab/documents 220/HW
+  358  ls -la
+  359  file ghost
+  360  rm -rf ghost
+  361  file documentary
+  362  mv documentary documentary.txt
+  363  sudo chown root:cat hello.c
+  364  sudo chown root:cat hello.c
+  365  cp code.c program.c
+  366  chmod 444 readme.txt
+  367  cp *.c 220/Lab/codes/
+  368  cd 220/HW
+  369  touch HW
+  370  ls -l
+  371  cd ../Lab/documents
+  372  vi progress.txt
+  373  pwd
+  374  cat progress.txt
+  375  mv progress.txt ../../HW/
+  376  cd ../../HW
+  377  pwd
+  378  cat progress.txt
+  379  cd ../..
+  380  cp -r 220 FAKE
+  381  cd FAKE
+  382  pwd
+  383  ls -l
+  384  rm -rf HW
+  385  ls -l
+  386  cd ../220/Lab/codes
+  387  mv code.c source.c
+  388  ls -l
+  389  cd ../../..
+  390  exit
+  391  git add
+  392  git commit -m "Lab02 done."
+  393  git push
+  394  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  395  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  396  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  397  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  398  git clone https://github.com/KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  399  gh auth login
+  400  sudo apt update && sudo apt install gh -y
+  401  gh auth login
+  402  jkf
+  403  cd 220-programming-in-c-and-unix-lab02-aabbdd200
+  404  gh repo clone KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200
+  405  gh repo clone KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200
+  406  cd 220-programming-in-c-and-unix-lab02-aabbdd200
+  407  script lab02.txt
+  408  vi lab02.txt
+  409  git add
+  410  git commit -m "Lab02 done."
+  411  git push
+  412  ls
+  413  cd Lab03Report.txt 
+  414  ls
+  415  cd debug1.c 
+  416  ls
+  417  cd lab3.txt
+  418  pwd
+  419  ls -ls
+  420  cat debug1.c 
+  421  gcc -g debug1.c -o debug1
+  422  ./debug1 
+  423  gdb debug1
+  424  cp debug1.c fixbug1.c
+  425  vi fixbug1.c
+  426  exit
+  427  git
+  428  git status
+  429  cd cs220
+  430  git status
+  431  git clone
+  432  git clone git@github.com:KUCS220/220-programming-in-c-and-unix-lab02-aabbdd200.git
+  433  ls
+  434  cd 220-programming-in-c-and-unix-lab02-aabbdd200/
+  435  ls
+  436  vi tex2.txt
+  437  git status 
+  438  git add tex2.txt 
+  439  git commit
+  440  git push
+  441  clear
+  442  git clone git@github.com:KUCS220/220-programming-in-c-and-unix-lab03-aabbdd200.git
+  443  ls
+  444  cd 220-programming-in-c-and-unix-lab03-aabbdd200/
+  445  ls
+  446  script lab3.txt
+  447  vi lab03.txt
+  448  vi lab3.txt
+  449  git add fixbug1.c lab03.txt
+  450  git commit -m "Lab03 done."
+  451  git push origin main
+  452  git add lab3.txt 
+  453  git commit -m "Lab03 done."
+  454  git push origin main
+  455  git clone git@github.com:KUCS220/220-programming-in-c-and-unix-lab04-aabbdd200.git
+  456  ls
+  457  cd lab04
+  458  vi record.c
+  459  cd 220-programming-in-c-and-unix-lab04-aabbdd200
+  460  vi record.c
+  461  vi record.h
+  462  vi inlab.c
+  463  vi Makefile
+  464  make
+  465  vi inlab.c 
+  466  make
+  467  record.c
+  468  vi record.c
+  469  make
+  470  vi record.c
+  471  ls
+  472  record.c
+  473  vi record.c
+  474  vi Makefile
+  475  vi record.c
+  476  git add record.c record.h inlab.c Makefile
+  477  git commit -m
+  478  git commit -m "done with makefile"
+  479  git push
+  480  exit lab04.txt
+  481  cd cs220
+  482  script lab04.txt
+  483  vi lab04.txt
+  484  git add lab04.txt
+  485  git push
+  486  git add lab04.txt
+  487  git commit -m "Lab04 done."
+  488  git push
+  489  git status
+  490  V
+  491  cd 220-programming-in-c-and-unix-lab04-aabbdd200
+  492  ls
+  493  cd ..
+  494  ls
+  495  git add lab04.txt
+  496  git commit -m "Lab04 done."
+  497  git push
+  498  git clone <git@github.com:KUC220/220-programing-in-c-and-unix-lab05-aabbdd200.git>   
+  499  git clone git@github.com:KUC220/220-programing-in-c-and-unix-lab05-aabbdd200.git   
+  500  git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   
+  501  git clone git@github.com:KUCS220/220-programing-in-c-and-unix-lab05-aabbdd200.git   
+  502  git clone git@github.com:KUCS220/220-programming-in-c-and-unix-lab05-aabbdd200.git   
+  503  ls
+  504  cd 220-programming-in-c-and-unix-lab05-aabbdd200/
+  505  ls
+  506  history >myloge.txt
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bitfun.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bitfun.c" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[1;1H[24;104H3[1;1H[24;105H0[1;1H[24;106H/[1;1H[24;107H0[1;1H[24;108Ha[1;1H[24;109H0[1;1H[24;110Ha[1;1H[24;111H/[1;1H[24;112H2[1;1H[24;103H          [1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll"L5bitfun.c" [New][1;1H[?25h[?25l[24;103H/[1;1H[24;1H[K[24;1H/[?25h [?25l[1;1H[24;113H0,0-1[9CAll[1;1H[?25h[?25l[24;103H~@k[1;1H[24;103H   [1;1H[?25h[?25l[24;103Hi[1;1H[24;103H [1;1H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H0,1[11CAll[1;1H[?25h[?25l/[24;113H1,2[1;2H[?25h[?25l[96m/*[m[24;115H3[1;3H[?25h[?25l
+[96m * [m[2;4H[K[24;113H2,4[2;4H[?25h[?25l[96mA[m[24;115H5[2;5H[?25h[?25l[96mb[m[24;115H6[2;6H[?25h[?25l[96md[m[24;115H7[2;7H[?25h[?25l[96me[m[24;115H8[2;8H[?25h[?25l[96ml[m[24;115H9[2;9H[?25h[?25l[96mr[m[24;115H10[2;10H[?25h[?25l[96ma[m[24;116H1[2;11H[?25h[?25l[96mh[m[24;116H2[2;12H[?25h[?25l[96mm[m[24;116H3[2;13H[?25h[?25l[96ma[m[24;116H4[2;14H[?25h[?25l[96mn[m[24;116H5[2;15H[?25h[?25l[96m [m[24;116H6[2;16H[?25h[?25l[96mH[m[24;116H7[2;17H[?25h[?25l[96ma[m[24;116H8[2;18H[?25h[?25l[96mi[m[24;116H9[2;19H[?25h[?25l[96mt[m[24;115H20[2;20H[?25h[?25l[96mh[m[24;116H1[2;21H[?25h[?25l[96ma[m[24;116H2[2;22H[?25h[?25l[96mm[m[24;116H3[2;23H[?25h[?25l[96m [m[24;116H4[2;24H[?25h[?25l[96mA[m[24;116H5[2;25H[?25h[?25l[96ml[m[24;116H6[2;26H[?25h[?25l[96mk[m[24;116H7[2;27H[?25h[?25l[96mh[m[24;116H8[2;28H[?25h[?25l[96ma[m[24;116H9[2;29H[?25h[?25l[96mt[m[24;115H30[2;30H[?25h[?25l[96mi[m[24;116H1[2;31H[?25h[?25l[96mb[m[24;116H2[2;32H[?25h[?25l
+[96m * [m[3;4H[K[24;113H3,4 [3;4H[?25h[?25l[95m2[m[24;115H5[3;5H[?25h[?25l[95m2[m[24;115H6[3;6H[?25h[?25l[95m5[m[24;115H7[3;7H[?25h[?25l[3;6H[K[24;115H6[3;6H[?25h[?25l[95m4[m[24;115H7[3;7H[?25h[?25l[95m1[m[24;115H8[3;8H[?25h[?25l[95m1[m[24;115H9[3;9H[?25h[?25l[95m5[m[24;115H10[3;10H[?25h[?25l[3;9H[K[24;115H9 [3;9H[?25h[?25l[95m4[m[24;115H10[3;10H[?25h[?25l[95m8[m[24;116H1[3;11H[?25h[?25l[95m0[m[24;116H2[3;12H[?25h[?25l[95m7[m[24;116H3[3;13H[?25h[?25l[95m6[m[24;116H4[3;14H[?25h[?25l
+[96m * [m[4;4H[K[24;113H4,4 [4;4H[?25h[?25l[96mL[m[24;115H5[4;5H[?25h[?25l[96mA[m[24;115H6[4;6H[?25h[?25l[96mb[m[24;115H7[4;7H[?25h[?25l[4;6H[K[24;115H6[4;6H[?25h[?25l[4;5H[K[24;115H5[4;5H[?25h[?25l[96ma[m[24;115H6[4;6H[?25h[?25l[96mb[m[24;115H7[4;7H[?25h[?25l[96m5[m[24;115H8[4;8H[?25h[?25l[96m [m[24;115H9[4;9H[?25h[?25l[95m1[m[24;115H10[4;10H[?25h[?25l[96m [m[24;116H1[4;11H[?25h[?25l[95m6[m[24;116H2[4;12H[?25h[?25l[4;11H[K[24;116H1[4;11H[?25h[?25l[4;10H[K[24;116H0[4;10H[?25h[?25l[95m6[m[24;116H1[4;11H[?25h[?25l[4;10H[K[24;116H0[4;10H[?25h[?25l[4;9H[K[24;115H9 [4;9H[?25h[?25l[96mq[m[24;115H10[4;10H[?25h[?25l[96m6[m[24;116H1[4;11H[?25h[?25l
+[96m * [m[5;4H[K[24;113H5,4 [5;4H[?25h[?25l[96m/[?25h[?25l[m[5;3H[K[24;115H3[5;3H[?25h[?25l[5;2H[K[24;115H2[5;2H[?25h[?25l[96m*[m[24;115H3[5;3H[?25h[?25l[96m?[m[24;115H4[5;4H[?25h[?25l[5;3H[K[24;115H3[5;3H[?25h[?25l[96m/[m[24;115H4[5;4H[?25h[?25l[6;1H[K[24;113H6,1[6;1H[?25h[?25ln[24;115H2[6;2H[?25h[?25lf[24;115H3[6;3H[?25h[?25l[6;2H[K[24;115H2[6;2H[?25h[?25l[6;1H[K[24;115H1[6;1H[?25h[?25l[7;1H[K[24;113H7[7;1H[?25h[?25li[24;115H2[7;2H[?25h[?25ln[24;115H3[7;3H[?25h[?25l[38;5;121mint[m[24;115H4[7;4H[?25h[?25l[24;115H5[7;5H[?25h[?25li[24;115H6[7;6H[?25h[?25ls[24;115H7[7;7H[?25h[?25l[7;6H[K[24;115H6[7;6H[?25h[?25l[7;5H[K[24;115H5[7;5H[?25h[?25l[24;115H4[7;4H[?25h[?25lin[7;3H[K[24;115H3[7;3H[?25h[?25l[7;2H[K[24;115H2[7;2H[?25h[?25l[7;1H[K[24;115H1[7;1H[?25h[?25li[24;115H2[7;2H[?25h[?25ln[24;115H3[7;3H[?25h[?25l[38;5;121mint[m[24;115H4[7;4H[?25h[?25l[24;115H5[7;5H[?25h[?25li[24;115H6[7;6H[?25h[?25ls[24;115H7[7;7H[?25h[?25li[24;115H8[7;8H[?25h[?25ld[24;115H9[7;9H[?25h[?25le[24;115H10[7;10H[?25h[?25ln[24;116H1[7;11H[?25h[?25lt[24;116H2[7;12H[?25h[?25lc[24;116H3[7;13H[?25h[?25la[24;116H4[7;14H[?25h[?25ll[24;116H5[7;15H[?25h[?25l9[24;116H6[7;16H[?25h[?25l[7;15H[K[24;116H5[7;15H[?25h[?25l([24;116H6[7;16H[?25h[?25li[24;116H7[7;17H[?25h[?25ln[24;116H8[7;18H[?25h[?25l[38;5;121mint[m[24;116H9[7;19H[?25h[?25l[24;115H20[7;20H[?25h[?25lx[24;116H1[7;21H[?25h[?25l,[24;116H2[7;22H[?25h[?25l[24;116H3[7;23H[?25h[?25li[24;116H4[7;24H[?25h[?25ln[24;116H5[7;25H[?25h[?25l[38;5;121mint[m[24;116H6[7;26H[?25h[?25l[24;116H7[7;27H[?25h[?25ly[24;116H8[7;28H[?25h[?25l)[7;15H[46m([12C)[m[24;116H9[7;29H[?25h[?25l{[7;15H([12C)[24;115H30[7;30H[?25h[?25l
+        [8;9H[K[24;113H8,2-9[8;9H[?25h[?25li[24;115H3-10[8;10H[?25h[?25l[93mif[m[24;115H4-11[8;11H[?25h[?25l[24;115H5-12[8;12H[?25h[?25l([24;115H6-13[8;13H[?25h[?25lx[24;115H7-14[8;14H[?25h[?25l\[24;115H8-15[8;15H[?25h[?25l\[24;115H9-16[8;16H[?25h[?25l[8;15H[K[24;115H8-15[8;15H[?25h[?25l[8;14H[K[24;115H7-14[8;14H[?25h[?25l|[24;115H8-15[8;15H[?25h[?25l|[24;115H9-16[8;16H[?25h[?25ly[24;115H10-17[8;17H[?25h[?25l[8;16H[K[24;115H9-16 [8;16H[?25h[?25l[8;15H[K[24;115H8-15[8;15H[?25h[?25l[8;14H[K[24;115H7-14[8;14H[?25h[?25l^[24;115H8-15[8;15H[?25h[?25l[8;14H[K[24;115H7-14[8;14H[?25h[?25l[24;115H8-15[8;15H[?25h[?25l^[24;115H9-16[8;16H[?25h[?25l[24;115H10-17[8;17H[?25h[?25ly[24;116H1-18[8;18H[?25h[?25l[24;116H2-19[8;19H[?25h[?25l)[8;12H[46m([mx ^ y [46m)[m[24;116H3-20[8;20H[?25h[?25l[24;116H2-19[8;19H[?25h[?25l[8;12H(x ^ y )[24;116H1-18[8;18H[?25h[?25l[24;116H0-17[8;17H[?25h[?25l[24;115H9-16 [8;16H[?25h[?25l[24;115H8-15[8;15H[?25h[?25l[24;115H7-14[8;14H[?25h[?25l[46m([mx ^ y [46m)[m[24;115H6-13[8;13H[?25h[?25l[24;115H5-12[8;12H[?25h[?25l(x ^ y )[24;115H4-11[8;11H[?25h[?25l[24;115H3-10[8;10H[?25h[?25l[24;115H2-9 [8;9H[?25h[?25l[24;115H3-10[8;10H[?25h[?25l[24;115H4-11[8;11H[?25h[?25li (x ^ y )[8;19H[K[24;115H3-10[8;10H[?25h[?25l (x ^ y )[8;18H[K[24;115H2-9 [8;9H[?25h[?25lr (x ^ y )[24;115H3-10[8;10H[?25h[?25le (x ^ y )[24;115H4-11[8;11H[?25h[?25lt (x ^ y )[24;115H5-12[8;12H[?25h[?25lu (x ^ y )[24;115H6-13[8;13H[?25h[?25lr (x ^ y )[24;115H7-14[8;14H[?25h[?25l[93mreturn[m (x ^ y )[24;115H8-15[8;15H[?25h[?25l  (x ^ y )[24;115H9-16[8;16H[?25h[?25l [46m([mx ^ y [46m)[m[24;115H10-17[8;17H[?25h[?25l[24;116H1-18[8;18H[?25h[?25l(x ^ y )[24;116H2-19[8;19H[?25h[?25l[24;116H3-20[8;20H[?25h[?25l[24;116H4-21[8;21H[?25h[?25l[24;116H5-22[8;22H[?25h[?25l[24;116H6-23[8;23H[?25h[?25l[46m([mx ^ y [46m)[m[24;116H7-24[8;24H[?25h[?25l[24;116H8-25[8;25H[?25h[?25l;[8;17H(x ^ y )[24;116H9-26[8;26H[?25h[?25l
+        [9;9H[K[24;113H9,2-9  [9;9H[?25h[?25l}[7;29H[46m{
+
+}[m[24;116H  [9;2H[?25h[?25l[10;1H[K[7;29H{
+
+}[24;113H10,1[10;1H[?25h[24;1H[K[10;1H[?25l[24;103H^[[10;1H[24;103H  [10;1H[24;113H10,0-1[8CAll[10;1H[?25h[?25l[24;103H:[10;1H[24;103H[K[24;1H:[?25hwqwq[?25l[24;3H[K[24;3H[?25h[?25l[24;2H[K[24;2H[?25h [?25l[10;1H[24;113H10,0-1[8CAll[10;1H[?25h[?25l[24;103H~@k[10;1H[24;103H   [9;1H[7;29H[46m{
+
+}[m[24;113H9,1   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [9;1H[?25h[?25l[24;103Hi[9;1H[24;103H [9;1H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H9,1[11CAll[9;1H[?25h[?25l[46md[m}d[46m}[m[24;115H2[9;2H[?25h[?25l}[9;2H[K[9;1H[46m}[m[24;115H1[9;1H[?25h[?25l[7;29H{
+
+}[24;113H8[8;1H[?25h[?25l[7;29H[46m{
+
+}[m[24;113H9[9;1H[?25h[?25l[7;29H{
+
+}[24;113H8[8;1H[?25h[?25l[24;115H2-9[8;9H[?25h[?25l[24;115H3-10[8;10H[?25h[?25l[24;115H4-11[8;11H[?25h[?25l[24;115H5-12[8;12H[?25h[?25l[24;115H6-13[8;13H[?25h[?25l[24;115H7-14[8;14H[?25h[?25l[24;115H8-15[8;15H[?25h[?25l[24;115H9-16[8;16H[?25h[?25l [46m([mx ^ y [46m)[m[24;115H10-17[8;17H[?25h[?25l[46m![m(x ^ y[46m [m);[8;17H![46m([mx ^ y [46m)[m[24;116H1-18[8;18H[?25h[24;1H[K[8;17H[?25l[24;103H^[[8;17H[24;103H  [8;18H(x ^ y )[24;113H8,10-17[7CAll[8;17H[?25h[?25l[24;103H^[[8;17H[24;103H  [8;17H[24;103H^[[8;17H[24;103H  [8;17H[?25h[?25l[24;103H:[8;17H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bitfun.c" [New] 10L, 118B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bitfun.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bitfun.c" 10L, 118B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * Lab5 q6
+ */[m
+
+[32mint[m isidentcal([32mint[m x, [32mint[m y){[8;9H[38;5;130mreturn[m  !(x ^ y );
+}
+
+[94m~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H8,10-17[7CAll[8;17H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[8;17H[24;104H3[8;17H[24;105H0[8;17H[24;106H/[8;17H[24;107H0[8;17H[24;108Ha[8;17H[24;109H0[8;17H[24;110Ha[8;17H[24;111H/[8;17H[24;112H2[8;17H[24;103H          [8;17H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * Lab5 q6
+ */[m
+
+[38;5;121mint[m isidentcal([38;5;121mint[m x, [38;5;121mint[m y){[8;9H[93mreturn[m  !(x ^ y );
+}
+
+[94m~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H8,10-17[7CAll"L5bitfun.c" 10L, 118B[8;17H[?25h[?25l[24;103H^[[8;17H[24;103H  [8;17H[24;103H^[[8;17H[24;103H  [8;17H[?25h[?25l[24;103H:[8;17H[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bitfun.c" 10L, 118B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi l[KL5.h
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5.h" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[1;1H[24;104H3[1;1H[24;105H0[1;1H[24;106H/[1;1H[24;107H0[1;1H[24;108Ha[1;1H[24;109H0[1;1H[24;110Ha[1;1H[24;111H/[1;1H[24;112H2[1;1H[24;103H          [1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll"L5.h" [New][1;1H[?25h[?25l[24;103Ho[1;1H[24;103H [2;1H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H2,1[11CAll[2;1H[K[2;1H[?25h[?25ln[24;115H2[2;2H[?25h[?25lf[24;115H3[2;3H[?25h[?25lo[24;115H4[2;4H[?25h[?25l[2;3H[K[24;115H3[2;3H[?25h[?25l[2;2H[K[24;115H2[2;2H[?25h[?25l[2;1H[K[24;115H1[2;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H1[1;1H[?25h[?25li[24;115H2[1;2H[?25h[?25ln[24;115H3[1;3H[?25h[?25l[38;5;121mint[m[24;115H4[1;4H[?25h[?25l[24;115H5[1;5H[?25h[?25li[24;115H6[1;6H[?25h[?25ls[24;115H7[1;7H[?25h[?25li[24;115H8[1;8H[?25h[?25ln[24;115H9[1;9H[?25h[?25ld[24;115H10[1;10H[?25h[?25le[24;116H1[1;11H[?25h[?25ln[24;116H2[1;12H[?25h[?25lt[24;116H3[1;13H[?25h[?25lc[24;116H4[1;14H[?25h[?25la[24;116H5[1;15H[?25h[?25ll[24;116H6[1;16H[?25h[?25l([24;116H7[1;17H[?25h[?25lu[24;116H8[1;18H[?25h[?25l[1;17H[K[24;116H7[1;17H[?25h[?25li[24;116H8[1;18H[?25h[?25ln[24;116H9[1;19H[?25h[?25l[38;5;121mint[m[24;115H20[1;20H[?25h[?25l[24;116H1[1;21H[?25h[?25lx[24;116H2[1;22H[?25h[?25l,[24;116H3[1;23H[?25h[?25l[24;116H4[1;24H[?25h[?25li[24;116H5[1;25H[?25h[?25ln[24;116H6[1;26H[?25h[?25l[38;5;121mint[m[24;116H7[1;27H[?25h[?25l[24;116H8[1;28H[?25h[?25ly[24;116H9[1;29H[?25h[?25l)[1;16H[46m([12C)[m[24;115H30[1;30H[?25h[?25l;[1;16H([12C)[24;116H1[1;31H[?25h[?25l:[24;116H2[1;32H[?25h[?25lw[24;116H3[1;33H[?25h[?25lq[24;116H4[1;34H[?25h[?25l[1;33H[K[24;116H3[1;33H[?25h[?25l[1;32H[K[24;116H2[1;32H[?25h[?25l[1;31H[K[24;116H1[1;31H[?25h[?25l[1;30H[K[1;16H[46m([12C)[m[24;116H0[1;30H[?25h[?25l;[1;16H([12C)[24;116H1[1;31H[?25h[24;1H[K[1;30H[?25l[24;103H^[[1;30H[24;103H  [1;31H[24;113H1,30[10CAll[1;30H[?25h[?25l[24;103H:[1;30H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5.h" [New] 1L, 31B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi LA[K5bit.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bit.c" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[1;1H[24;104H3[1;1H[24;105H0[1;1H[24;106H/[1;1H[24;107H0[1;1H[24;108Ha[1;1H[24;109H0[1;1H[24;110Ha[1;1H[24;111H/[1;1H[24;112H2[1;1H[24;103H          [1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll"L5bit.c" [New][1;1H[?25h[?25l[24;103H?[1;1H[24;1H[K[24;1H?[?25h [?25l[1;1H[24;113H0,0-1[9CAll[1;1H[?25h[?25l[24;103H/[1;1H[24;103H[K[24;1H/[?25h [?25l[1;1H[24;113H0,0-1[9CAll[1;1H[?25h[?25l[24;103Ho[1;1H[24;103H [2;1H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H2,1[11CAll[2;1H[K[2;1H[?25h[?25li[24;115H2[2;2H[?25h[?25l[2;1H[K[24;115H1[2;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H1[1;1H[?25h[?25l/[24;115H2[1;2H[?25h[?25l[96m/*[m[24;115H3[1;3H[?25h[?25l
+[96m * [m[2;4H[K[24;113H2,4[2;4H[?25h[?25l[96mA[m[24;115H5[2;5H[?25h[?25l[96mb[m[24;115H6[2;6H[?25h[?25l[96md[m[24;115H7[2;7H[?25h[?25l[96me[m[24;115H8[2;8H[?25h[?25l[96ml[m[24;115H9[2;9H[?25h[?25l[96mr[m[24;115H10[2;10H[?25h[?25l[96ma[m[24;116H1[2;11H[?25h[?25l[96mh[m[24;116H2[2;12H[?25h[?25l[96mm[m[24;116H3[2;13H[?25h[?25l[96ma[m[24;116H4[2;14H[?25h[?25l[96mn[m[24;116H5[2;15H[?25h[?25l[96m [m[24;116H6[2;16H[?25h[?25l[96mH[m[24;116H7[2;17H[?25h[?25l[96ma[m[24;116H8[2;18H[?25h[?25l[96mi[m[24;116H9[2;19H[?25h[?25l[96mt[m[24;115H20[2;20H[?25h[?25l[96mh[m[24;116H1[2;21H[?25h[?25l[96ma[m[24;116H2[2;22H[?25h[?25l[96mm[m[24;116H3[2;23H[?25h[?25l[96m [m[24;116H4[2;24H[?25h[?25l[96mA[m[24;116H5[2;25H[?25h[?25l[96mL[m[24;116H6[2;26H[?25h[?25l[2;25H[K[24;116H5[2;25H[?25h[?25l[96ml[m[24;116H6[2;26H[?25h[?25l[96mk[m[24;116H7[2;27H[?25h[?25l[96mh[m[24;116H8[2;28H[?25h[?25l[96ma[m[24;116H9[2;29H[?25h[?25l[96mt[m[24;115H30[2;30H[?25h[?25l[96mi[m[24;116H1[2;31H[?25h[?25l[96mb[m[24;116H2[2;32H[?25h[?25l
+[96m * [m[3;4H[K[24;113H3,4 [3;4H[?25h[?25l[95m2[m[24;115H5[3;5H[?25h[?25l[95m2[m[24;115H6[3;6H[?25h[?25l[95m4[m[24;115H7[3;7H[?25h[?25l[95m1[m[24;115H8[3;8H[?25h[?25l[95m1[m[24;115H9[3;9H[?25h[?25l[95m4[m[24;115H10[3;10H[?25h[?25l[95m8[m[24;116H1[3;11H[?25h[?25l[95m0[m[24;116H2[3;12H[?25h[?25l[95m6[m[24;116H3[3;13H[?25h[?25l[3;12H[K[24;116H2[3;12H[?25h[?25l[95m7[m[24;116H3[3;13H[?25h[?25l[95m6[m[24;116H4[3;14H[?25h[?25l
+[96m * [m[4;4H[K[24;113H4,4 [4;4H[?25h[?25l[96ml[m[24;115H5[4;5H[?25h[?25l[96ma[m[24;115H6[4;6H[?25h[?25l[96mb[m[24;115H7[4;7H[?25h[?25l[96m5[m[24;115H8[4;8H[?25h[?25l[96m [m[24;115H9[4;9H[?25h[?25l[96mq[m[24;115H10[4;10H[?25h[?25l[96m8[m[24;116H1[4;11H[?25h[?25l
+[96m * [m[5;4H[K[24;113H5,4 [5;4H[?25h[?25l[96m/[?25h[?25l[m[6;1H[K[24;113H6,1[6;1H[?25h[?25li[24;115H2[6;2H[?25h[?25l[7;1H[K[24;113H7,1[7;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H6,2[6;2H[?25h[?25l[6;1H[K[24;115H1[6;1H[?25h[?25l[7;1H[K[24;113H7[7;1H[?25h[?25l[8;1H[K[24;113H8[8;1H[?25h[?25li[24;115H2[8;2H[?25h[?25ln[24;115H3[8;3H[?25h[?25lc[24;115H4[8;4H[?25h[?25ll[24;115H5[8;5H[?25h[?25lu[24;115H6[8;6H[?25h[?25ld[24;115H7[8;7H[?25h[?25le[24;115H8[8;8H[?25h[?25l[24;115H9[8;9H[?25h[?25l<[24;115H10[8;10H[?25h[?25ls[24;116H1[8;11H[?25h[?25lt[24;116H2[8;12H[?25h[?25ld[24;116H3[8;13H[?25h[?25li[24;116H4[8;14H[?25h[?25lo[24;116H5[8;15H[?25h[?25l.[24;116H6[8;16H[?25h[?25lh[24;116H7[8;17H[?25h[?25l>[24;116H8[8;18H[?25h[?25l[24;116H7[8;17H[?25h[?25l[24;116H6[8;16H[?25h[?25l[24;116H5[8;15H[?25h[?25l[24;116H4[8;14H[?25h[?25l[24;116H3[8;13H[?25h[?25l[24;116H2[8;12H[?25h[?25l[24;116H1[8;11H[?25h[?25l[24;116H0[8;10H[?25h[?25l[24;115H9 [8;9H[?25h[?25l[24;115H8[8;8H[?25h[?25l[24;115H7[8;7H[?25h[?25l[24;115H6[8;6H[?25h[?25l[24;115H5[8;5H[?25h[?25l[24;115H4[8;4H[?25h[?25l[24;115H3[8;3H[?25h[?25l[24;115H2[8;2H[?25h[?25l[24;115H1[8;1H[?25h[?25l[38;5;81m#include [m[95m<stdio.h>[m[24;115H2[8;2H[?25h[?25l[24;115H3[8;3H[?25h[?25l[24;115H4[8;4H[?25h[?25l[24;115H5[8;5H[?25h[?25l[24;115H6[8;6H[?25h[?25l[24;115H7[8;7H[?25h[?25l[24;115H8[8;8H[?25h[?25l[24;115H9[8;9H[?25h[?25l[24;115H10[8;10H[?25h[?25l[24;116H1[8;11H[?25h[?25l[24;116H2[8;12H[?25h[?25l[24;116H3[8;13H[?25h[?25l[24;116H4[8;14H[?25h[?25l[24;116H5[8;15H[?25h[?25l[24;116H6[8;16H[?25h[?25l[24;116H7[8;17H[?25h[?25l[24;116H8[8;18H[?25h[?25l[24;116H9[8;19H[?25h[?25l[9;1H[K[24;113H9,1 [9;1H[?25h[?25li[24;115H2[9;2H[?25h[?25ln[24;115H3[9;3H[?25h[?25lc[24;115H4[9;4H[?25h[?25ll[24;115H5[9;5H[?25h[?25lu[24;115H6[9;6H[?25h[?25ld[24;115H7[9;7H[?25h[?25le[24;115H8[9;8H[?25h[?25l[24;115H9[9;9H[?25h[?25l[95m"[m[24;115H10[9;10H[?25h[?25l[95mL[m[24;116H1[9;11H[?25h[?25l[95m5[m[24;116H2[9;12H[?25h[?25l[95m.[m[24;116H3[9;13H[?25h[?25l[95mh[m[24;116H4[9;14H[?25h[?25l[95m"[m[24;116H5[9;15H[?25h[?25l[10;1H[K[24;113H10,1[10;1H[?25h[?25l[11;1H[K[24;114H1[11;1H[?25h[?25li[24;116H2[11;2H[?25h[?25ln[24;116H3[11;3H[?25h[?25l[38;5;121mint[m[24;116H4[11;4H[?25h[?25l[24;116H5[11;5H[?25h[?25la[24;116H6[11;6H[?25h[?25l[11;5H[K[24;116H5[11;5H[?25h[?25lm[24;116H6[11;6H[?25h[?25la[24;116H7[11;7H[?25h[?25li[24;116H8[11;8H[?25h[?25ln[24;116H9[11;9H[?25h[?25l([24;116H10[11;10H[?25h[?25lv[24;117H1[11;11H[?25h[?25lo[24;117H2[11;12H[?25h[?25li[24;117H3[11;13H[?25h[?25l[38;5;121mvoid[m[24;117H4[11;14H[?25h[?25l)[46m([4C)[m[24;117H5[11;15H[?25h[?25l{[11;9H([4C)[24;117H6[11;16H[?25h[?25l
+        [12;9H[K[24;114H2,2-9[12;9H[?25h[?25lo[24;116H3-10[12;10H[?25h[?25l[12;9H[K[24;116H2-9 [12;9H[?25h[?25li[24;116H3-10[12;10H[?25h[?25ln[24;116H4-11[12;11H[?25h[?25l[38;5;121mint[m[24;116H5-12[12;12H[?25h[?25l[24;116H6-13[12;13H[?25h[?25lx[24;116H7-14[12;14H[?25h[?25l,[24;116H8-15[12;15H[?25h[?25l[24;116H9-16[12;16H[?25h[?25ly[24;116H10-17[12;17H[?25h[?25l;[24;117H1-18[12;18H[?25h[?25l
+        [13;9H[K[24;114H3,2-9  [13;9H[?25h[?25l
+        [14;9H[K[24;114H4[14;9H[?25h[?25lp[24;116H3-10[14;10H[?25h[?25lt[24;116H4-11[14;11H[?25h[?25li[24;116H5-12[14;12H[?25h[?25ln[24;116H6-13[14;13H[?25h[?25lt[24;116H7-14[14;14H[?25h[?25lf[24;116H8-15[14;15H[?25h[?25l([24;116H9-16[14;16H[?25h[?25l[95m"[m[24;116H10-17[14;17H[?25h[?25l[95me[m[24;117H1-18[14;18H[?25h[?25l[95mn[m[24;117H2-19[14;19H[?25h[?25l[95mt[m[24;117H3-20[14;20H[?25h[?25l[95me[m[24;117H4-21[14;21H[?25h[?25l[95mr[m[24;117H5-22[14;22H[?25h[?25l[95m [m[24;117H6-23[14;23H[?25h[?25l[95mn[m[24;117H7-24[14;24H[?25h[?25l[95mu[m[24;117H8-25[14;25H[?25h[?25l[95mm[m[24;117H9-26[14;26H[?25h[?25l[14;25H[K[24;117H8-25[14;25H[?25h[?25l[14;24H[K[24;117H7-24[14;24H[?25h[?25l[14;23H[K[24;117H6-23[14;23H[?25h[?25l[95mx[m[24;117H7-24[14;24H[?25h[?25l[95ma[m[24;117H8-25[14;25H[?25h[?25l[14;24H[K[24;117H7-24[14;24H[?25h[?25l[95m [m[24;117H8-25[14;25H[?25h[?25l[95ma[m[24;117H9-26[14;26H[?25h[?25l[95mn[m[24;116H20-27[14;27H[?25h[?25l[95md[m[24;117H1-28[14;28H[?25h[?25l[95m [m[24;117H2-29[14;29H[?25h[?25l[95my[m[24;117H3-30[14;30H[?25h[?25l[95m"[m[24;117H4-31[14;31H[?25h[?25l)[14;15H[46m([15C)[m[24;117H5-32[14;32H[?25h[?25l'[14;15H([15C)[24;117H6-33[14;33H[?25h[?25l
+                [15;17H[K[24;114H5,3-17 [15;17H[?25h[?25l[24;116H2-9 [15;9H[?25h[?25l[24;116H1  [15;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H4,26-33[14;33H[?25h[?25l[14;32H[K[14;15H[46m([15C)[m[24;117H5-32[14;32H[?25h[?25l'[14;15H([15C)[24;117H6-33[14;33H[?25h[?25l[14;32H[K[14;15H[46m([15C)[m[24;117H5-32[14;32H[?25h[?25l;[14;15H([15C)[24;117H6-33[14;33H[?25h[?25l
+        [15;9H[K[24;114H5,2-9  [15;9H[?25h[?25ls[24;116H3-10[15;10H[?25h[?25lc[24;116H4-11[15;11H[?25h[?25la[24;116H5-12[15;12H[?25h[?25ln[24;116H6-13[15;13H[?25h[?25lf[24;116H7-14[15;14H[?25h[?25l([24;116H8-15[15;15H[?25h[?25l%[24;116H9-16[15;16H[?25h[?25ld[24;116H10-17[15;17H[?25h[?25l[15;16H[K[24;116H9-16 [15;16H[?25h[?25l[15;15H[K[24;116H8-15[15;15H[?25h[?25l[95m"[m[24;116H9-16[15;16H[?25h[?25l[95m%[m[24;116H10-17[15;17H[?25h[?25l[38;5;224m%d[m[24;117H1-18[15;18H[?25h[?25l[95m [m[24;117H2-19[15;19H[?25h[?25l[95m%[m[24;117H3-20[15;20H[?25h[?25l[38;5;224m%d[m[24;117H4-21[15;21H[?25h[?25l[95m [m[24;117H5-22[15;22H[?25h[?25l[95m,[m[24;117H6-23[15;23H[?25h[?25l[95m [m[24;117H7-24[15;24H[?25h[?25l[95m%[m[24;117H8-25[15;25H[?25h[?25l[15;24H[K[24;117H7-24[15;24H[?25h[?25l[95m&[m[24;117H8-25[15;25H[?25h[?25l[95mx[m[24;117H9-26[15;26H[?25h[?25l[95m [m[24;116H20-27[15;27H[?25h[?25l[15;26H[K[24;116H19-26[15;26H[?25h[?25l[95m,[m[24;116H20-27[15;27H[?25h[?25l[95m [m[24;117H1-28[15;28H[?25h[?25l[95m%[m[24;117H2-29[15;29H[?25h[?25l[95my[m[24;117H3-30[15;30H[?25h[?25l[95m)[m[15;14H[46m([m[15C[95m[46m)[m[24;117H4-31[15;31H[?25h[?25l[95m;[m[15;14H([15C[95m)[m[24;117H5-32[15;32H[?25h[?25l
+[95m        [m[16;9H[K[24;114H6,2-9  [16;9H[?25h[?25l[16;1H[K[17;1H[95m        [m[17;9H[K[24;114H7[17;9H[?25h[?25l[95mp[m[24;116H3-10[17;10H[?25h[?25l[95mr[m[24;116H4-11[17;11H[?25h[?25l[95mi[m[24;116H5-12[17;12H[?25h[?25l[95mn[m[24;116H6-13[17;13H[?25h[?25l[95mt[m[24;116H7-14[17;14H[?25h[?25l[17;13H[K[24;116H6-13[17;13H[?25h[?25l[17;12H[K[24;116H5-12[17;12H[?25h[?25l[17;11H[K[24;116H4-11[17;11H[?25h[?25l[17;10H[K[24;116H3-10[17;10H[?25h[?25l[17;9H[K[24;116H2-9 [17;9H[?25h[?25l[17;1H[K[24;116H1  [17;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H6[16;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H5,25-32[15;32H[?25h[?25l[15;31H[K[15;14H[46m([m[15C[95m[46m)[m[24;117H4-31[15;31H[?25h[?25l[15;30H[K[15;14H([24;117H3-30[15;30H[?25h[?25l[15;29H[K[24;117H2-29[15;29H[?25h[?25l[15;28H[K[24;117H1-28[15;28H[?25h[?25l[15;27H[K[24;117H0-27[15;27H[?25h[?25l[15;26H[K[24;116H19-26[15;26H[?25h[?25l[15;25H[K[24;117H8-25[15;25H[?25h[?25l[95mx[m[24;117H9-26[15;26H[?25h[?25l[95m,[m[24;116H20-27[15;27H[?25h[?25l[95m%[m[24;117H1-28[15;28H[?25h[?25l[15;27H[K[24;117H0-27[15;27H[?25h[?25l[95m%[m[24;117H1-28[15;28H[?25h[?25l[95my[m[24;117H2-29[15;29H[?25h[?25l[95m)[m[15;14H[46m([m[14C[95m[46m)[m[24;117H3-30[15;30H[?25h[?25l[95m;[m[15;14H([14C[95m)[m[24;117H4-31[15;31H[?25h[?25l[15;14H[46m([m[14C[95m[46m)[m[24;117H3-30[15;30H[?25h[?25l[24;117H2-29[15;29H[?25h[?25l[15;14H([14C[95m)[m[24;117H1-28[15;28H[?25h[?25l[24;117H0-27[15;27H[?25h[?25l[24;116H19-26[15;26H[?25h[?25l[24;117H8-25[15;25H[?25h[?25l[24;117H7-24[15;24H[?25h[?25l[24;117H6-23[15;23H[?25h[?25l[24;117H5-22[15;22H[?25h[?25l[24;117H4-21[15;21H[?25h[?25l[95m"[m , &x,%y);[24;117H5-22[15;22H[?25h[?25l[24;117H6-23[15;23H[?25h[?25l[24;117H7-24[15;24H[?25h[?25l[24;117H8-25[15;25H[?25h[?25l[24;117H9-26[15;26H[?25h[?25l[24;116H20-27[15;27H[?25h[?25l[24;117H1-28[15;28H[?25h[?25l[24;117H2-29[15;29H[?25h[?25l[15;14H[46m([15C)[m[24;117H3-30[15;30H[?25h[?25l[24;117H4-31[15;31H[?25h[?25l[15;14H([15C)[24;117H5-32[15;32H[?25h[?25l[15;14H[46m([15C)[m[24;117H4-31[15;31H[?25h[?25l[24;117H3-30[15;30H[?25h[?25l[15;14H([15C)[24;117H2-29[15;29H[?25h[?25ly);[15;31H[K[24;117H1-28[15;28H[?25h[?25l&y);[24;117H2-29[15;29H[?25h[?25l[15;14H[46m([15C)[m[24;117H3-30[15;30H[?25h[?25l[24;117H4-31[15;31H[?25h[?25l[15;14H([15C)[24;117H5-32[15;32H[?25h[?25l
+        [16;9H[K[24;114H6,2-9  [16;9H[?25h[?25l
+        [17;9H[K[24;114H7[17;9H[?25h[?25lp[24;116H3-10[17;10H[?25h[?25lr[24;116H4-11[17;11H[?25h[?25li[24;116H5-12[17;12H[?25h[?25ln[24;116H6-13[17;13H[?25h[?25lt[24;116H7-14[17;14H[?25h[?25lf[24;116H8-15[17;15H[?25h[?25l([24;116H9-16[17;16H[?25h[?25l[95m"[m[24;116H10-17[17;17H[?25h[?25l[95m%[m[24;117H1-18[17;18H[?25h[?25l[38;5;224m%d[m[24;117H2-19[17;19H[?25h[?25l[38;5;224m\[m[24;117H3-20[17;20H[?25h[?25l[38;5;224mn[m[24;117H4-21[17;21H[?25h[?25l[95m"[m[24;117H5-22[17;22H[?25h[?25l[24;117H6-23[17;23H[?25h[?25l,[24;117H7-24[17;24H[?25h[?25l[24;117H8-25[17;25H[?25h[?25li[24;117H9-26[17;26H[?25h[?25ls[24;116H20-27[17;27H[?25h[?25li[24;117H1-28[17;28H[?25h[?25ld[24;117H2-29[17;29H[?25h[?25le[24;117H3-30[17;30H[?25h[?25ln[24;117H4-31[17;31H[?25h[?25lt[24;117H5-32[17;32H[?25h[?25lc[24;117H6-33[17;33H[?25h[?25la[24;117H7-34[17;34H[?25h[?25ll[24;117H8-35[17;35H[?25h[?25l([24;117H9-36[17;36H[?25h[?25lx[24;116H30-37[17;37H[?25h[?25l,[24;117H1-38[17;38H[?25h[?25ly[24;117H2-39[17;39H[?25h[?25l)[46m([mx,y[46m)[m[24;117H3-40[17;40H[?25h[?25l)[17;15H[46m([m[19C(x,y)[46m)[m[24;117H4-41[17;41H[?25h[?25l;[17;15H([24C)[24;117H5-42[17;42H[?25h[?25l
+        [18;9H[K[24;114H8,2-9  [18;9H[?25h[?25l
+        [19;9H[K[24;114H9[19;9H[?25h[?25lr[24;116H3-10[19;10H[?25h[?25le[24;116H4-11[19;11H[?25h[?25lt[24;116H5-12[19;12H[?25h[?25lu[24;116H6-13[19;13H[?25h[?25lr[24;116H7-14[19;14H[?25h[?25l[93mreturn[m[24;116H8-15[19;15H[?25h[?25l[24;116H9-16[19;16H[?25h[?25l[95m0[m[24;116H10-17[19;17H[?25h[?25l[24;117H1-18[19;18H[?25h[?25l;[24;117H2-19[19;19H[?25h[?25l
+        [20;9H[K[24;113H20,2-9  [20;9H[?25h[?25l}[11;15H[46m{[20;1H}[m[24;117H  [20;2H[?25h[?25l[21;1H[K[11;15H{[20;1H}[24;114H1,1[21;1H[?25h[24;1H[K[21;1H[?25l[24;103H^[[21;1H[24;103H  [21;1H[24;113H21,0-1[8CAll[21;1H[?25h[?25l[24;103H:[21;1H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bit.c" [New] 21L, 232B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi Makefile
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"Makefile" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H:[1;1H[24;104H3[1;1H[24;105H0[1;1H[24;106H3[1;1H[24;107H0[1;1H[24;108H/[1;1H[24;109H0[1;1H[24;110Ha[1;1H[24;111H0[1;1H[24;112Ha[1;1H[24;103H          [1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H0,0-1[9CAll"Makefile" [New][1;1H[?25h[?25l[24;103Hl[1;1H[24;103H [1;1H[?25h[?25l[24;103Hi[1;1H[24;103H [1;1H[24;1H[1m-- INSERT --[m[24;13H[K[24;113H0,1[11CAll[1;1H[?25h[?25lj[24;113H1,2[1;2H[?25h[?25lk[24;115H3[1;3H[?25h[?25l[1;2H[K[24;115H2[1;2H[?25h[?25l[1;1H[K[24;115H1[1;1H[?25h[?25lL[24;115H2[1;2H[?25h[?25l5[24;115H3[1;3H[?25h[?25lb[24;115H4[1;4H[?25h[?25li[24;115H5[1;5H[?25h[?25lt[24;115H6[1;6H[?25h[?25l[24;115H7[1;7H[?25h[?25l[24;115H6[1;6H[?25h[?25l[1m[96mL5bit:[m[24;115H7[1;7H[?25h[?25l
+[95m        [m[2;9H[K[24;113H2,2-9[2;9H[?25h[?25l[95mg[m[24;115H3-10[2;10H[?25h[?25l[95mc[m[24;115H4-11[2;11H[?25h[?25l[95mc[m[24;115H5-12[2;12H[?25h[?25l[95m [m[24;115H6-13[2;13H[?25h[?25l[95mL[m[24;115H7-14[2;14H[?25h[?25l[95m5[m[24;115H8-15[2;15H[?25h[?25l[95mb[m[24;115H9-16[2;16H[?25h[?25l[95mi[m[24;115H10-17[2;17H[?25h[?25l[95mt[m[24;116H1-18[2;18H[?25h[?25l[95m.[m[24;116H2-19[2;19H[?25h[?25l[95mc[m[24;116H3-20[2;20H[?25h[?25l[95m [m[24;116H4-21[2;21H[?25h[?25l[95mL[m[24;116H5-22[2;22H[?25h[?25l[95mA[m[24;116H6-23[2;23H[?25h[?25l[2;22H[K[24;116H5-22[2;22H[?25h[?25l[95m5[m[24;116H6-23[2;23H[?25h[?25l[95mb[m[24;116H7-24[2;24H[?25h[?25l[95mi[m[24;116H8-25[2;25H[?25h[?25l[95mt[m[24;116H9-26[2;26H[?25h[?25l[95mf[m[24;115H20-27[2;27H[?25h[?25l[95mu[m[24;116H1-28[2;28H[?25h[?25l[95mn[m[24;116H2-29[2;29H[?25h[?25l[95m.[m[24;116H3-30[2;30H[?25h[?25l[95mv[m[24;116H4-31[2;31H[?25h[?25l[2;30H[K[24;116H3-30[2;30H[?25h[?25l[95mc[m[24;116H4-31[2;31H[?25h[?25l[95m [m[24;116H5-32[2;32H[?25h[?25l[95m-[m[24;116H6-33[2;33H[?25h[?25l[95m0[m[24;116H7-34[2;34H[?25h[?25l[2;33H[K[24;116H6-33[2;33H[?25h[?25l[95mo[m[24;116H7-34[2;34H[?25h[?25l[95m [m[24;116H8-35[2;35H[?25h[?25l[95mL[m[24;116H9-36[2;36H[?25h[?25l[95m5[m[24;115H30-37[2;37H[?25h[?25l[95mb[m[24;116H1-38[2;38H[?25h[?25l[95mi[m[24;116H2-39[2;39H[?25h[?25l[95mt[m[24;116H3-40[2;40H[?25h[?25l
+[95m        [m[3;9H[K[24;113H3,2-9  [3;9H[?25h[?25l[3;1H[K[4;1H[K[24;113H4,1  [4;1H[?25h[?25lL[24;115H2[4;2H[?25h[?25l5[24;115H3[4;3H[?25h[?25la[24;115H4[4;4H[?25h[?25lr[24;115H5[4;5H[?25h[?25lg[24;115H6[4;6H[?25h[?25l[1m[96mL5arg:[m[24;115H7[4;7H[?25h[?25l
+[95m        [m[5;9H[K[24;113H5,2-9[5;9H[?25h[?25l[95mg[m[24;115H3-10[5;10H[?25h[?25l[95mc[m[24;115H4-11[5;11H[?25h[?25l[95mc[m[24;115H5-12[5;12H[?25h[?25l[95m [m[24;115H6-13[5;13H[?25h[?25l[95mL[m[24;115H7-14[5;14H[?25h[?25l[95m5[m[24;115H8-15[5;15H[?25h[?25l[95ma[m[24;115H9-16[5;16H[?25h[?25l[95mr[m[24;115H10-17[5;17H[?25h[?25l[95mg[m[24;116H1-18[5;18H[?25h[?25l[95m [m[24;116H2-19[5;19H[?25h[?25l[5;18H[K[24;116H1-18[5;18H[?25h[?25l[95m.[m[24;116H2-19[5;19H[?25h[?25l[95mc[m[24;116H3-20[5;20H[?25h[?25l[95m [m[24;116H4-21[5;21H[?25h[?25l[95mL[m[24;116H5-22[5;22H[?25h[?25l[95m5[m[24;116H6-23[5;23H[?25h[?25l[95mb[m[24;116H7-24[5;24H[?25h[?25l[95mi[m[24;116H8-25[5;25H[?25h[?25l[95mt[m[24;116H9-26[5;26H[?25h[?25l[95mf[m[24;115H20-27[5;27H[?25h[?25l[95mu[m[24;116H1-28[5;28H[?25h[?25l[95mn[m[24;116H2-29[5;29H[?25h[?25l[95m.[m[24;116H3-30[5;30H[?25h[?25l[95mc[m[24;116H4-31[5;31H[?25h[?25l[95m [m[24;116H5-32[5;32H[?25h[?25l[95m-[m[24;116H6-33[5;33H[?25h[?25l[95mo[m[24;116H7-34[5;34H[?25h[?25l[95m [m[24;116H8-35[5;35H[?25h[?25l[95mL[m[24;116H9-36[5;36H[?25h[?25l[95m5[m[24;115H30-37[5;37H[?25h[?25l[95ma[m[24;116H1-38[5;38H[?25h[?25l[95mr[m[24;116H2-39[5;39H[?25h[?25l[95mg[m[24;116H3-40[5;40H[?25h[?25l
+[95m        [m[6;9H[K[24;113H6,2-9  [6;9H[?25h[24;1H[K[6;1H[?25l[24;103H^[[6;1H[24;103H  [6;9H[6;1H[K[24;113H6,0-1[9CAll[6;1H[?25h[?25l[24;103H:[6;1H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"Makefile" [New] 6L, 82B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make L5bit
+[?2004lgcc L5bit.c L5bitfun.c -o L5bit
+[01m[KL5bit.c:9:9:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K=[m[K’, ‘[01m[K,[m[K’, ‘[01m[K;[m[K’, ‘[01m[Kasm[m[K’ or ‘[01m[K__attribute__[m[K’ before string constant
+    9 | include [01;31m[K"L5.h"[m[K
+      |         [01;31m[K^~~~~~[m[K
+make: *** [Makefile:2: L5bit] Error 1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L[KL5vit[K[K[Kbit.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bit.c" 21L, 232B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * lab5 q8
+ */[m
+
+
+[35m#include [m[31m<stdio.h>[m
+include [31m"L5.h"[m
+
+[32mint[m main([32mvoid[m){[12;9H[32mint[m x, y;[14;9Hptintf([31m"enter x and y"[m);[15;9Hscanf([31m"[m[35m%d[m[31m [m[35m%d[m[31m"[m , &x,&y);[17;9Hprintf([31m"[m[35m%d\n[m[31m"[m , isidentcal(x,y));[19;9H[38;5;130mreturn[m [31m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H21,0-1[8CAll[21;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[21;1H[24;104H3[21;1H[24;105H0[21;1H[24;106H/[21;1H[24;107H0[21;1H[24;108Ha[21;1H[24;109H0[21;1H[24;110Ha[21;1H[24;111H/[21;1H[24;112H2[21;1H[24;103H          [21;1H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * lab5 q8
+ */[m
+
+
+[38;5;81m#include [m[95m<stdio.h>[m
+include [95m"L5.h"[m
+
+[38;5;121mint[m main([38;5;121mvoid[m){[12;9H[38;5;121mint[m x, y;[14;9Hptintf([95m"enter x and y"[m);[15;9Hscanf([95m"[m[38;5;224m%d[m[95m [m[38;5;224m%d[m[95m"[m , &x,&y);[17;9Hprintf([95m"[m[38;5;224m%d\n[m[95m"[m , isidentcal(x,y));[19;9H[93mreturn[m [95m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H21,0-1[8CAll"L5bit.c" 21L, 232B[21;1H[?25h[?25l[24;103H~@k[21;1H[24;103H   [20;1H[11;15H[46m{[20;1H}[m[24;114H0,1  [20;1H[?25h[?25l[24;103H~@k[20;1H[24;103H   [19;8H[11;15H{[20;1H}[24;113H19,1-8[19;8H[?25h[?25l[24;103H~@k[19;8H[24;103H   [18;1H[24;114H8,0-1[18;1H[?25h[?25l[24;103H~@k[18;1H[24;103H   [17;8H[24;114H7,1-8[17;8H[?25h[?25l[24;103H~@k[17;8H[24;103H   [16;1H[24;114H6,0-1[16;1H[?25h[?25l[24;103H~@k[16;1H[24;103H   [15;8H[24;114H5,1-8[15;8H[?25h[?25l[24;103H~@k[15;8H[24;103H   [14;8H[24;114H4[14;8H[?25h[?25l[24;103H~@k[14;8H[24;103H   [13;1H[24;114H3,0-1[13;1H[?25h[?25l[24;103H~@k[13;1H[24;103H   [12;8H[24;114H2,1-8[12;8H[?25h[?25l[24;103H~@k[12;8H[24;103H   [11;1H[24;114H1,1  [11;1H[?25h[?25l[24;103H~@k[11;1H[24;103H   [10;1H[24;114H0,0-1[10;1H[?25h[?25l[24;103H~@k[10;1H[24;103H   [9;1H[24;113H9,1   [9;1H[?25h[?25l[24;103H~@k[9;1H[24;103H   [8;1H[24;113H8[8;1H[?25h[?25l[24;103H~@k[8;1H[24;103H   [9;1H[24;113H9[9;1H[?25h[?25l[24;103H#[9;1H[24;1H?\<include\> [24;14H[K[24;1H[8;2H[24;113H8,2[11CAll[8;2H[?25h[?25l[24;103H~@k[8;2H[24;103H   [9;2H[24;113H9[9;2H[?25h[?25l[24;103H~@k[9;2H[24;103H   [9;1H[24;115H1[9;1H[?25h[?25l[24;103Hi[9;1H[24;103H [9;1H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H9,1[11CAll[9;1H[?25h[?25liinclude [95m"L5.h"[m[24;115H2[9;2H[?25h[?25lnclude [95m"L5.h"[m[9;15H[K[24;115H1[9;1H[?25h[?25l[38;5;81m#include [m[95m"L5.h"[m[24;115H2[9;2H[?25h[?25l[24;115H1[9;1H[?25h[?25l[24;113H10,1[10;1H[?25h[?25l[24;114H1[11;1H[?25h[?25l[24;114H2[12;1H[?25h[?25l[24;114H3[13;1H[?25h[?25l[24;114H4[14;1H[?25h[?25l[24;114H5[15;1H[?25h[?25l[24;114H6[16;1H[?25h[?25l[24;114H5[15;1H[?25h[?25l[24;114H4[14;1H[?25h[?25l[24;116H2-9[14;9H[?25h[?25l[24;116H3-10[14;10H[?25h[?25l[24;116H4-11[14;11H[?25h[?25lintf([95m"enter x and y"[m);[14;32H[K[24;116H3-10[14;10H[?25h[?25lrintf([95m"enter x and y"[m);[24;116H4-11[14;11H[?25h[24;1H[K[14;10H[?25l[24;103H^[[14;10H[24;103H  [14;11H[24;113H14,3-10[7CAll[14;10H[?25h[?25l[24;103H:[14;10H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bit.c" 21L, 233B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bit.cmake L5bit
+[?2004lgcc L5bit.c L5bitfun.c -o L5bit
+[01m[KL5bit.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[KL5bit.c:17:25:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kisidentcal[m[K’; did you mean ‘[01m[Kisindentcal[m[K’? [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   17 |         printf("%d\n" , [01;35m[Kisidentcal[m[K(x,y));
+      |                         [01;35m[K^~~~~~~~~~[m[K
+      |                         [32m[Kisindentcal[m[K
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make L5bitvi L5bit.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bit.c" 21L, 233B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * lab5 q8
+ */[m
+
+
+[35m#include [m[31m<stdio.h>[m
+[35m#include [m[31m"L5.h"[m
+
+[32mint[m main([32mvoid[m){[12;9H[32mint[m x, y;[14;9Hprintf([31m"enter x and y"[m);[15;9Hscanf([31m"[m[35m%d[m[31m [m[35m%d[m[31m"[m , &x,&y);[17;9Hprintf([31m"[m[35m%d\n[m[31m"[m , isidentcal(x,y));[19;9H[38;5;130mreturn[m [31m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H14,3-10[7CAll[14;10H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[14;10H[24;104H3[14;10H[24;105H0[14;10H[24;106H/[14;10H[24;107H0[14;10H[24;108Ha[14;10H[24;109H0[14;10H[24;110Ha[14;10H[24;111H/[14;10H[24;112H2[14;10H[24;103H          [14;10H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * lab5 q8
+ */[m
+
+
+[38;5;81m#include [m[95m<stdio.h>[m
+[38;5;81m#include [m[95m"L5.h"[m
+
+[38;5;121mint[m main([38;5;121mvoid[m){[12;9H[38;5;121mint[m x, y;[14;9Hprintf([95m"enter x and y"[m);[15;9Hscanf([95m"[m[38;5;224m%d[m[95m [m[38;5;224m%d[m[95m"[m , &x,&y);[17;9Hprintf([95m"[m[38;5;224m%d\n[m[95m"[m , isidentcal(x,y));[19;9H[93mreturn[m [95m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H14,3-10[7CAll"L5bit.c" 21L, 233B[14;10H[?25h[?25l[24;103H~@k[14;10H[24;103H   [15;10H[24;114H5[15;10H[?25h[?25l[24;103H~@k[15;10H[24;103H   [16;1H[24;114H6,0-1 [16;1H[?25h[?25l[24;103H~@k[16;1H[24;103H   [17;10H[24;114H7,3-10[17;10H[?25h[?25l[24;103H~@k[17;10H[24;103H   [17;11H[24;116H4-11[17;11H[?25h[?25l[24;103H~@k[17;11H[24;103H   [17;12H[24;116H5-12[17;12H[?25h[?25l[24;103H~@k[17;12H[24;103H   [17;13H[24;116H6-13[17;13H[?25h[?25l[24;103H~@k[17;13H[24;103H   [17;14H[24;116H7-14[17;14H[?25h[?25l[24;103H~@k[17;14H[24;103H   [17;15H[46m([24C)[m[24;116H8-15[17;15H[?25h[?25l[24;103H~@k[17;15H[24;103H   [17;16H([24C)[24;116H9-16[17;16H[?25h[?25l[24;103H~@k[17;16H[24;103H   [17;17H[24;116H10-17[17;17H[?25h[?25l[24;103H~@k[17;17H[24;103H   [17;18H[24;117H1-18[17;18H[?25h[?25l[24;103H~@k[17;18H[24;103H   [17;19H[24;117H2-19[17;19H[?25h[?25l[24;103H~@k[17;19H[24;103H   [17;20H[24;117H3-20[17;20H[?25h[?25l[24;103H~@k[17;20H[24;103H   [17;21H[24;117H4-21[17;21H[?25h[?25l[24;103H~@k[17;21H[24;103H   [17;22H[24;117H5-22[17;22H[?25h[?25l[24;103H~@k[17;22H[24;103H   [17;23H[24;117H6-23[17;23H[?25h[?25l[24;103H~@k[17;23H[24;103H   [17;24H[24;117H7-24[17;24H[?25h[?25l[24;103H~@k[17;24H[24;103H   [17;25H[24;117H8-25[17;25H[?25h[?25l[24;103H~@k[17;25H[24;103H   [17;26H[24;117H9-26[17;26H[?25h[?25l[24;103H~@k[17;26H[24;103H   [17;27H[24;116H20-27[17;27H[?25h[?25l[24;103H~@k[17;27H[24;103H   [17;28H[24;117H1-28[17;28H[?25h[?25l[24;103Hn[17;28H[24;1H/\<include\> [24;14H[K[24;1H[38;5;224msearch hit BOTTOM, continuing at TOP[8;2H[m[24;113H8,2[11CAll[24;113H[K[24;113H8,2[11CAll[8;2H[?25h[?25l[24;103Hi[8;2H[24;103H [8;2H[24;1H[1m-- INSERT --[m[24;13H[K[24;113H8,2[11CAll[8;2H[?25h[?25l[24;113H9[9;2H[?25h[?25l[24;113H10,1[10;1H[?25h[?25l[24;114H1,2[11;2H[?25h[?25l[24;114H2,1[12;1H[?25h[?25l[24;114H3[13;1H[?25h[?25l[24;114H4[14;1H[?25h[?25l[24;114H5[15;1H[?25h[?25l[24;114H6[16;1H[?25h[?25l[24;114H7[17;1H[?25h[?25l[24;114H8[18;1H[?25h[?25l[24;114H7[17;1H[?25h[?25lh[24;116H2[17;2H[?25h[?25l[24;116H3-9[17;9H[?25h[?25l[24;116H2  [17;2H[?25h[?25l [24;116H1[17;1H[?25h[?25l[24;116H2-9[17;9H[?25h[?25l[24;116H3-10[17;10H[?25h[?25l[24;116H4-11[17;11H[?25h[?25l[24;116H5-12[17;12H[?25h[?25l[24;116H6-13[17;13H[?25h[?25l[24;116H7-14[17;14H[?25h[?25lf[46m([24C)[m[24;116H8-15[17;15H[?25h[?25l[24;116H9-16[17;16H[?25h[?25l([24C)[24;116H10-17[17;17H[?25h[?25l[24;117H1-18[17;18H[?25h[?25l[24;117H2-19[17;19H[?25h[?25l[24;117H3-20[17;20H[?25h[?25l[24;117H4-21[17;21H[?25h[?25l[24;117H5-22[17;22H[?25h[?25l[24;117H6-23[17;23H[?25h[?25l[24;117H7-24[17;24H[?25h[?25l[24;117H8-25[17;25H[?25h[?25l[24;117H9-26[17;26H[?25h[?25l[24;116H20-27[17;27H[?25h[?25l[24;117H1-28[17;28H[?25h[?25l[24;117H2-29[17;29H[?25h[?25lentcal(x,y));[17;41H[K[24;117H1-28[17;28H[?25h[?25lnentcal(x,y));[24;117H2-29[17;29H[?25h[?25lentcal(x,y));[17;41H[K[24;117H1-28[17;28H[?25h[?25ldentcal(x,y));[24;117H2-29[17;29H[?25h[?25lentcal(x,y));[17;41H[K[24;117H1-28[17;28H[?25h[24;1H[K[17;27H[?25l[24;103H^[[17;27H[24;103H  [17;28H[24;113H17,20-27      All[17;27H[?25h[?25l[24;103HD[17;27H[24;103H [17;27H[24;103Hd$[17;27H[24;103H  [17;26H[17;27H[K[24;116H19-26[17;26H[?25h[?25l[24;103HZ[17;26H[?25h[?25l[24;104H~@k[17;26H[24;103H    [17;26H[?25h[?25l[24;103H~@k[17;26H[24;103H   [17;25H[24;117H8-25[17;25H[?25h[?25l[24;103H~@k[17;25H[24;103H   [17;26H[24;117H9-26[17;26H[?25h[?25l[24;103H~@k[17;26H[24;103H   [17;26H[?25h[?25l[24;103H~@k[17;26H[24;103H   [17;25H[24;117H8-25[17;25H[?25h[?25l[24;103H~@k[17;25H[24;103H   [17;24H[24;117H7-24[17;24H[?25h[?25l[24;103H~@k[17;24H[24;103H   [17;25H[24;117H8-25[17;25H[?25h[?25l[24;103H~@k[17;25H[24;103H   [17;26H[24;117H9-26[17;26H[?25h[?25l[24;103HI[17;26H[24;103H [17;9H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H17,2-9[8CAll[17;9H[?25h[?25l[24;116H3-10[17;10H[?25h[?25l[24;116H4-11[17;11H[?25h[?25l[24;116H5-12[17;12H[?25h[?25l[24;116H6-13[17;13H[?25h[?25l[24;116H7-14[17;14H[?25h[?25l[24;116H8-15[17;15H[?25h[?25l[24;116H9-16[17;16H[?25h[?25l[24;116H10-17[17;17H[?25h[?25l[24;117H1-18[17;18H[?25h[?25l[24;117H2-19[17;19H[?25h[?25l[24;117H3-20[17;20H[?25h[?25l[24;117H4-21[17;21H[?25h[?25l[24;117H5-22[17;22H[?25h[?25l[24;117H6-23[17;23H[?25h[?25l[24;117H7-24[17;24H[?25h[?25l[24;117H8-25[17;25H[?25h[?25l[24;117H9-26[17;26H[?25h[?25l[24;116H20-27[17;27H[?25h[?25l[17;26H[K[24;116H19-26[17;26H[?25h[?25l[17;25H[K[24;117H8-25[17;25H[?25h[?25l[24;117H7-24[17;24H[?25h[?25l[24;117H8-25[17;25H[?25h[?25lI[24;117H9-26[17;26H[?25h[?25lD[24;116H20-27[17;27H[?25h[?25l[17;26H[K[24;116H19-26[17;26H[?25h[?25l[17;25H[K[24;117H8-25[17;25H[?25h[?25li[24;117H9-26[17;26H[?25h[?25ls[24;116H20-27[17;27H[?25h[?25li[24;117H1-28[17;28H[?25h[?25ld[24;117H2-29[17;29H[?25h[?25le[24;117H3-30[17;30H[?25h[?25ln[24;117H4-31[17;31H[?25h[?25lt[24;117H5-32[17;32H[?25h[?25li[24;117H6-33[17;33H[?25h[?25lc[24;117H7-34[17;34H[?25h[?25la[24;117H8-35[17;35H[?25h[?25ll[24;117H9-36[17;36H[?25h[?25l([24;116H30-37[17;37H[?25h[?25lx[24;117H1-38[17;38H[?25h[?25l,[24;117H2-39[17;39H[?25h[?25ly[24;117H3-40[17;40H[?25h[?25l)[46m([mx,y[46m)[m[24;117H4-41[17;41H[?25h[?25l)[17;15H[46m([m[20C(x,y)[46m)[m[24;117H5-42[17;42H[?25h[?25l;[17;15H([25C)[24;117H6-43[17;43H[?25h[24;1H[K[17;42H[?25l[24;103H^[[17;42H[24;103H  [17;43H[24;113H17,35-42      All[17;42H[?25h[?25l[24;103H:[17;42H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bit.c" 21L, 234B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bit.cmake L5bit
+[?2004lmake: 'L5bit' is up to date.
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make L5arg
+[?2004lgcc L5arg.c L5bitfun.c -o L5arg
+[01m[Kcc1:[m[K [01;31m[Kfatal error: [m[KL5arg.c: No such file or directory
+compilation terminated.
+make: *** [Makefile:5: L5arg] Error 1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make L5arg[K[K[Kbit
+[?2004lmake: 'L5bit' is up to date.
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make L5bitargbitvi L5bit.cmake L5bitvi L5bit.cmake L5bitvi Makefile
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"Makefile" 6L, 82B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[36mL5bit:[m
+[31m        gcc L5bit.c L5bitfun.c -o L5bit[m[2;40H[K[3;1H[K[4;1H[36mL5arg:[m
+[31m        gcc L5arg.c L5bitfun.c -o L5arg[m
+
+[94m~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H6,0-1[9CAll[6;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[6;1H[24;104H3[6;1H[24;105H0[6;1H[24;106H/[6;1H[24;107H0[6;1H[24;108Ha[6;1H[24;109H0[6;1H[24;110Ha[6;1H[24;111H/[6;1H[24;112H2[6;1H[24;103H          [6;1H[27m[23m[29m[m[H[2J[1;1H[1m[96mL5bit:[m
+[95m        gcc L5bit.c L5bitfun.c -o L5bit[m
+
+[1m[96mL5arg:[m
+[95m        gcc L5arg.c L5bitfun.c -o L5arg[m
+
+[94m~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H6,0-1[9CAll"Makefile" 6L, 82B[6;1H[?25h[?25l[24;103H~@k[6;1H[24;103H   [6;1H[?25h[?25l[24;103H~@k[6;1H[24;103H   [5;8H[24;113H5,1-8[5;8H[?25h[?25l[24;103H~@k[5;8H[24;103H   [6;1H[24;113H6,0-1[6;1H[?25h[?25l[24;103H~@k[6;1H[24;103H   [6;1H[?25h[?25l[24;103H^X[6;1H[24;103H  [6;1H[?25h[?25l[24;103H^X[6;1H[24;103H  [6;1H[?25h[?25l[24;1HType  :qa  and press <Enter> to exit Vim[24;113H[K[24;113H6,0-1[9CAll[6;1H[?25h[?25l[24;113H[K[24;113H6,0-1[9CAll[6;1H[?25h[?25l[24;103He[6;1H[24;103H [6;1H[?25h[?25l[24;103Hg[6;1H[?25h[?25l[24;103H [6;1H[24;103Hgv[6;1H[24;103H  [6;1H[?25h[?25l[24;103Hu[6;1H[24;1H1 change; before #2  1 second ago[24;34H[K[6;1H[24;113H6,0-1[9CAll[24;113H[K[24;113H6,0-1[9CAll[6;1H[?25h[?25l[24;103Hw[6;1H[24;103H [6;1H[?25h[?25l[24;103Hr[6;1H[?25h[?25l[24;104Hf[6;1H[24;103H  [6;1H[?25h[?25l[24;103Ho[6;1H[24;103H [7;1H[24;1H[1m-- INSERT --[m[24;13H[K[24;113H7,1[11CAll[7;1H[K[7;1H[?25h[?25li[24;115H2[7;2H[?25h[?25lv[24;115H3[7;3H[?25h[?25lb[24;115H4[7;4H[?25h[?25l[1m[96mivb[m=[24;115H5[7;5H[?25h[?25livb[7;4H[K[24;115H4[7;4H[?25h[?25l[7;3H[K[24;115H3[7;3H[?25h[?25l[7;2H[K[24;115H2[7;2H[?25h[?25l[7;1H[K[24;115H1[7;1H[?25h[?25l[24;1H[K[24;113H7,0-1[9CAll[7;1H[?25h[?25l[24;103H~@k[7;1H[24;103H   [6;1H[24;113H6[6;1H[?25h[?25l[24;103H~@k[6;1H[24;103H   [5;39H[24;113H5,32-39[5;39H[?25h[?25l[24;103H~@k[5;39H[24;103H   [5;38H[24;116H1-38[5;38H[?25h[?25l[24;103H~@k[5;38H[24;103H   [5;39H[24;116H2-39[5;39H[?25h[?25l[24;103H~@k[5;39H[24;103H   [5;38H[24;116H1-38[5;38H[?25h[?25l[24;103Hi[5;38H[24;103H [5;38H[24;1H[1m-- INSERT --[m[24;113H[K[24;113H5,31-38[7CAll[5;38H[?25h[?25l[24;116H2-39[5;39H[?25h[?25l[95mg[m[5;39H[K[24;116H1-38[5;38H[?25h[?25l[95mg[m[5;38H[K[24;116H0-37[5;37H[?25h[?25l[95mg[m[5;37H[K[24;115H29-36[5;36H[?25h[?25l[95mg[m[5;36H[K[24;116H8-35[5;35H[?25h[?25l[95mg[m[5;35H[K[24;116H7-34[5;34H[?25h[?25l[95mg[m[5;34H[K[24;116H6-33[5;33H[?25h[?25l[95mg[m[5;33H[K[24;116H5-32[5;32H[?25h[?25l[95mg[m[5;32H[K[24;116H4-31[5;31H[?25h[?25l[95mg[m[5;31H[K[24;116H3-30[5;30H[?25h[?25l[95mg[m[5;30H[K[24;116H2-29[5;29H[?25h[?25l[95mg[m[5;29H[K[24;116H1-28[5;28H[?25h[?25l[95mg[m[5;28H[K[24;116H0-27[5;27H[?25h[?25l[95mg[m[5;27H[K[24;115H19-26[5;26H[?25h[?25l[95mg[m[5;26H[K[24;116H8-25[5;25H[?25h[?25l[95mg[m[5;25H[K[24;116H7-24[5;24H[?25h[?25l[95mg[m[5;24H[K[24;116H6-23[5;23H[?25h[?25l[95mg[m[5;23H[K[24;116H5-22[5;22H[?25h[?25l[95mg[m[5;22H[K[24;116H4-21[5;21H[?25h[?25l[95mg[m[5;21H[K[24;116H3-20[5;20H[?25h[?25l[95mg[m[5;20H[K[24;116H2-19[5;19H[?25h[?25l[95mg[m[5;19H[K[24;116H1-18[5;18H[?25h[?25l[5;18H[K[24;116H0-17[5;17H[?25h[?25l[95mg[m[5;17H[K[24;115H9-16 [5;16H[?25h[?25l[95mg[m[5;16H[K[24;115H8-15[5;15H[?25h[?25l[95mg[m[5;15H[K[24;115H7-14[5;14H[?25h[?25l[95mg[m[5;14H[K[24;115H6-13[5;13H[?25h[?25l[95mg[m[5;13H[K[24;115H5-12[5;12H[?25h[?25l[95mg[m[5;12H[K[24;115H4-11[5;11H[?25h[?25l[95mg[m[5;11H[K[24;115H3-10[5;10H[?25h[?25l[5;10H[K[24;115H2-9 [5;9H[?25h[?25lg[5;2H[K[24;115H1  [5;1H[?25h[?25l[4;23r[23;1H
+[1;24r[4;1H[1m[96mL5arg:[mg[23;1H[94m~                                                                                                                                 [m[24;113H[K[24;113H4,7[11CAll[4;7H[?25h[?25lL5argg[4;7H[K[24;115H6[4;6H[?25h[?25l[4;6H[K[24;115H5[4;5H[?25h[?25lg[4;5H[K[24;115H4[4;4H[?25h[?25lg[4;4H[K[24;115H3[4;3H[?25h[?25lg[4;3H[K[24;115H2[4;2H[?25h[?25lg[4;2H[K[24;115H1[4;1H[?25h[?25l[3;23r[23;1H
+[1;24r[23;1H[94m~                                                                                                                                 [m[24;113H[K[24;113H3,1[11CAll[3;1H[?25h[?25l[2;23r[23;1H
+[1;24r[2;1H[95m        gcc L5bit.c L5bitfun.c -o L5bitg[m[23;1H[94m~                                                                                                                                 [m[24;113H[K[24;113H2,33-40[7CAll[2;40H[?25h[?25l[95mg[m[2;40H[K[24;116H2-39[2;39H[?25h[?25l[95mg[m[2;39H[K[24;116H1-38[2;38H[?25h[?25l[95mg[m[2;38H[K[24;116H0-37[2;37H[?25h[?25l[95mg[m[2;37H[K[24;115H29-36[2;36H[?25h[?25l[95mg[m[2;36H[K[24;116H8-35[2;35H[?25h[?25l[95mg[m[2;35H[K[24;116H7-34[2;34H[?25h[?25l[95mg[m[2;34H[K[24;116H6-33[2;33H[?25h[?25l[95mg[m[2;33H[K[24;116H5-32[2;32H[?25h[?25l[95mg[m[2;32H[K[24;116H4-31[2;31H[?25h[?25l[95mg[m[2;31H[K[24;116H3-30[2;30H[?25h[?25l[95mg[m[2;30H[K[24;116H2-29[2;29H[?25h[?25l[95mg[m[2;29H[K[24;116H1-28[2;28H[?25h[?25l[95mg[m[2;28H[K[24;116H0-27[2;27H[?25h[?25l[95mg[m[2;27H[K[24;115H19-26[2;26H[?25h[?25l[95mg[m[2;26H[K[24;116H8-25[2;25H[?25h[?25l[95mg[m[2;25H[K[24;116H7-24[2;24H[?25h[?25l[95mg[m[2;24H[K[24;116H6-23[2;23H[?25h[?25l[95mg[m[2;23H[K[24;116H5-22[2;22H[?25h[?25l[95mg[m[2;22H[K[24;116H4-21[2;21H[?25h[?25l[95mg[m[2;21H[K[24;116H3-20[2;20H[?25h[?25l[95mg[m[2;20H[K[24;116H2-19[2;19H[?25h[?25l[95mg[m[2;19H[K[24;116H1-18[2;18H[?25h[?25l[95mg[m[2;18H[K[24;116H0-17[2;17H[?25h[?25l[95mg[m[2;17H[K[24;115H9-16 [2;16H[?25h[?25l[95mg[m[2;16H[K[24;115H8-15[2;15H[?25h[?25l[95mg[m[2;15H[K[24;115H7-14[2;14H[?25h[?25l[95mg[m[2;14H[K[24;115H6-13[2;13H[?25h[?25l[95mg[m[2;13H[K[24;115H5-12[2;12H[?25h[?25l[95mg[m[2;12H[K[24;115H4-11[2;11H[?25h[?25l[95mg[m[2;11H[K[24;115H3-10[2;10H[?25h[?25l[2;10H[K[24;115H2-9 [2;9H[?25h[?25lg[2;2H[K[24;115H1  [2;1H[?25h[?25l[1;23r[23;1H
+[1;24r[1;1H[1m[96mL5bit:[mg[23;1H[94m~                                                                                                                                 [m[24;113H[K[24;113H1,7[11CAll[1;7H[?25h[?25lL5bitg[1;7H[K[24;115H6[1;6H[?25h[?25lg[1;6H[K[24;115H5[1;5H[?25h[?25lg[1;5H[K[24;115H4[1;4H[?25h[?25lg[1;4H[K[24;115H3[1;3H[?25h[?25lg[1;3H[K[24;115H2[1;2H[?25h[?25lg[1;2H[K[24;115H1[1;1H[?25h[?25l[24;115H2[1;2H[?25h[?25l[1;1H[K[24;115H1[1;1H[?25h[?25lL[24;115H2[1;2H[?25h[?25l5[24;115H3[1;3H[?25h[?25lb[24;115H4[1;4H[?25h[?25li[24;115H5[1;5H[?25h[?25lt[24;115H6[1;6H[?25h[?25l[1m[96mL5bit:[m[24;115H7[1;7H[?25h[?25l[2;23r[2;1H[L[1;24r[2;1H[95m        [m[24;113H[K[24;113H2,2-9[9CAll[2;9H[?25h[?25l[2;1H[K[24;115H1  [2;1H[?25h[?25l[1;23r[23;1H
+[1;24r[1;1H[1m[96mL5bit:[m[23;1H[94m~                                                                                                                                 [m[24;113H[K[24;113H1,7[11CAll[1;7H[?25h[?25l[1m[96m [m[24;115H8[1;8H[?25h[?25l L[24;115H9[1;9H[?25h[?25la[24;115H10[1;10H[?25h[?25lb[24;116H1[1;11H[?25h[?25l[1;10H[K[24;116H0[1;10H[?25h[?25l[1;9H[K[24;115H9 [1;9H[?25h[?25l[1m[96m%[m[24;115H10[1;10H[?25h[?25l[1;9H[K[24;115H9 [1;9H[?25h[?25l5[24;115H10[1;10H[?25h[?25lb[24;116H1[1;11H[?25h[?25li[24;116H2[1;12H[?25h[?25lt[24;116H3[1;13H[?25h[?25l[24;116H4[1;14H[?25h[?25l[24;116H3[1;13H[?25h[?25l.[24;116H4[1;14H[?25h[?25lo[24;116H5[1;15H[?25h[?25lL[24;116H6[1;16H[?25h[?25l[1;15H[K[24;116H5[1;15H[?25h[?25l[24;116H6[1;16H[?25h[?25lL[24;116H7[1;17H[?25h[?25l5[24;116H8[1;18H[?25h[?25lb[24;116H9[1;19H[?25h[?25li[24;115H20[1;20H[?25h[?25lt[24;116H1[1;21H[?25h[?25lf[24;116H2[1;22H[?25h[?25lu[24;116H3[1;23H[?25h[?25ln[24;116H4[1;24H[?25h[?25l.[24;116H5[1;25H[?25h[?25lo[24;116H6[1;26H[?25h[?25l[2;23r[2;1H[L[1;24r[2;1H[95m        [m[24;113H[K[24;113H2,2-9[9CAll[2;9H[?25h[?25l[95mg[m[24;115H3-10[2;10H[?25h[?25l[95mc[m[24;115H4-11[2;11H[?25h[?25l[95mc[m[24;115H5-12[2;12H[?25h[?25l[95m [m[24;115H6-13[2;13H[?25h[?25l[95m-[m[24;115H7-14[2;14H[?25h[?25l[95mo[m[24;115H8-15[2;15H[?25h[?25l[95m [m[24;115H9-16[2;16H[?25h[?25l[95mL[m[24;115H10-17[2;17H[?25h[?25l[95m5[m[24;116H1-18[2;18H[?25h[?25l[95mb[m[24;116H2-19[2;19H[?25h[?25l[95mi[m[24;116H3-20[2;20H[?25h[?25l[95mt[m[24;116H4-21[2;21H[?25h[?25l[95m [m[24;116H5-22[2;22H[?25h[?25l[95mL[m[24;116H6-23[2;23H[?25h[?25l[95m5[m[24;116H7-24[2;24H[?25h[?25l[95mv[m[24;116H8-25[2;25H[?25h[?25l[95mi[m[24;116H9-26[2;26H[?25h[?25l[95mt[m[24;115H20-27[2;27H[?25h[?25l[2;26H[K[24;115H19-26[2;26H[?25h[?25l[2;25H[K[24;116H8-25[2;25H[?25h[?25l[2;24H[K[24;116H7-24[2;24H[?25h[?25l[95mb[m[24;116H8-25[2;25H[?25h[?25l[95mi[m[24;116H9-26[2;26H[?25h[?25l[95mt[m[24;115H20-27[2;27H[?25h[?25l[95m.[m[24;116H1-28[2;28H[?25h[?25l[95mo[m[24;116H2-29[2;29H[?25h[?25l[95m [m[24;116H3-30[2;30H[?25h[?25l[95mL[m[24;116H4-31[2;31H[?25h[?25l[95m5[m[24;116H5-32[2;32H[?25h[?25l[95mb[m[24;116H6-33[2;33H[?25h[?25l[95mi[m[24;116H7-34[2;34H[?25h[?25l[95mt[m[24;116H8-35[2;35H[?25h[?25l[95mf[m[24;116H9-36[2;36H[?25h[?25l[95mu[m[24;115H30-37[2;37H[?25h[?25l[95mn[m[24;116H1-38[2;38H[?25h[?25l[95m.[m[24;116H2-39[2;39H[?25h[?25l[95mo[m[24;116H3-40[2;40H[?25h[?25l[3;23r[3;1H[L[1;24r[3;1H[95m        [m[24;113H[K[24;113H3,2-9[9CAll[3;9H[?25h[?25l[3;1H[K[24;115H1  [3;1H[?25h[?25lL[24;115H2[3;2H[?25h[?25l5[24;115H3[3;3H[?25h[?25lb[24;115H4[3;4H[?25h[?25li[24;115H5[3;5H[?25h[?25lt[24;115H6[3;6H[?25h[?25l[1m[96mL5bit:[m[24;115H7[3;7H[?25h[?25l[1m[96m [m[24;115H8[3;8H[?25h[?25l L[24;115H9[3;9H[?25h[?25l5[24;115H10[3;10H[?25h[?25lb[24;116H1[3;11H[?25h[?25li[24;116H2[3;12H[?25h[?25lt[24;116H3[3;13H[?25h[?25l.[24;116H4[3;14H[?25h[?25lc[24;116H5[3;15H[?25h[?25l[24;116H6[3;16H[?25h[?25lL[24;116H7[3;17H[?25h[?25l5[24;116H8[3;18H[?25h[?25lv[24;116H9[3;19H[?25h[?25li[24;115H20[3;20H[?25h[?25lt[24;116H1[3;21H[?25h[?25l[24;113H5,1 [5;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H4[4;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H3,21[3;21H[?25h[?25l[3;20H[K[24;116H0[3;20H[?25h[?25l[3;19H[K[24;115H19[3;19H[?25h[?25l[3;18H[K[24;116H8[3;18H[?25h[?25l.[24;116H9[3;19H[?25h[?25lh[24;115H20[3;20H[?25h[?25l
+[95m        [m[4;9H[K[24;113H4,2-9[4;9H[?25h[?25l[95mg[m[24;115H3-10[4;10H[?25h[?25l[95mc[m[24;115H4-11[4;11H[?25h[?25l[95mc[m[24;115H5-12[4;12H[?25h[?25l[95m [m[24;115H6-13[4;13H[?25h[?25l[95m-[m[24;115H7-14[4;14H[?25h[?25l[95mc[m[24;115H8-15[4;15H[?25h[?25l[95m [m[24;115H9-16[4;16H[?25h[?25l[95mL[m[24;115H10-17[4;17H[?25h[?25l[95m5[m[24;116H1-18[4;18H[?25h[?25l[95mb[m[24;116H2-19[4;19H[?25h[?25l[95mi[m[24;116H3-20[4;20H[?25h[?25l[95mt[m[24;116H4-21[4;21H[?25h[?25l[95m.[m[24;116H5-22[4;22H[?25h[?25l[95mc[m[24;116H6-23[4;23H[?25h[?25l
+[95m        [m[5;9H[K[24;113H5,2-9  [5;9H[?25h[?25l[5;1H[K[6;1H[K[24;113H6,1  [6;1H[?25h[?25lL[24;115H2[6;2H[?25h[?25l5[24;115H3[6;3H[?25h[?25lb[24;115H4[6;4H[?25h[?25li[24;115H5[6;5H[?25h[?25lt[24;115H6[6;6H[?25h[?25lf[24;115H7[6;7H[?25h[?25lu[24;115H8[6;8H[?25h[?25ln[24;115H9[6;9H[?25h[?25l[1m[96mL5bitfun:[m[24;115H10[6;10H[?25h[?25l[1m[96m [m[24;116H1[6;11H[?25h[?25l l[24;116H2[6;12H[?25h[?25la[24;116H3[6;13H[?25h[?25l[6;12H[K[24;116H2[6;12H[?25h[?25l[1m[96m [m[6;11H[K[24;116H1[6;11H[?25h[?25l L[24;116H2[6;12H[?25h[?25l5[24;116H3[6;13H[?25h[?25lb[24;116H4[6;14H[?25h[?25li[24;116H5[6;15H[?25h[?25lt[24;116H6[6;16H[?25h[?25lf[24;116H7[6;17H[?25h[?25lu[24;116H8[6;18H[?25h[?25ln[24;116H9[6;19H[?25h[?25l[24;115H20[6;20H[?25h[?25l[24;115H19[6;19H[?25h[?25l.[24;115H20[6;20H[?25h[?25lo[24;116H1[6;21H[?25h[?25l[6;20H[K[24;116H0[6;20H[?25h[?25lc[24;116H1[6;21H[?25h[?25l[24;116H2[6;22H[?25h[?25lL[24;116H3[6;23H[?25h[?25l5[24;116H4[6;24H[?25h[?25lb[24;116H5[6;25H[?25h[?25li[24;116H6[6;26H[?25h[?25lt[24;116H7[6;27H[?25h[?25lf[24;116H8[6;28H[?25h[?25lu[24;116H9[6;29H[?25h[?25ln[24;115H30[6;30H[?25h[?25l.[24;116H1[6;31H[?25h[?25l[6;30H[K[24;116H0[6;30H[?25h[?25l[6;29H[K[24;115H29[6;29H[?25h[?25l[6;28H[K[24;116H8[6;28H[?25h[?25l[6;27H[K[24;116H7[6;27H[?25h[?25l[6;26H[K[24;116H6[6;26H[?25h[?25l[6;25H[K[24;116H5[6;25H[?25h[?25l[6;24H[K[24;116H4[6;24H[?25h[?25l[6;23H[K[24;116H3[6;23H[?25h[?25l5[24;116H4[6;24H[?25h[?25l.[24;116H5[6;25H[?25h[?25lh[24;116H6[6;26H[?25h[?25l
+[95m        [m[7;9H[K[24;113H7,2-9[7;9H[?25h[?25l[95mg[m[24;115H3-10[7;10H[?25h[?25l[95mc[m[24;115H4-11[7;11H[?25h[?25l[95mc[m[24;115H5-12[7;12H[?25h[?25l[95m [m[24;115H6-13[7;13H[?25h[?25l[95m-[m[24;115H7-14[7;14H[?25h[?25l[95mc[m[24;115H8-15[7;15H[?25h[?25l[95m [m[24;115H9-16[7;16H[?25h[?25l[95mL[m[24;115H10-17[7;17H[?25h[?25l[95m5[m[24;116H1-18[7;18H[?25h[?25l[95mb[m[24;116H2-19[7;19H[?25h[?25l[95mi[m[24;116H3-20[7;20H[?25h[?25l[95m     [m[24;116H4-25[7;25H[?25h[?25l[7;20H[K[24;116H3-20[7;20H[?25h[?25l[95mt[m[24;116H4-21[7;21H[?25h[?25l[95mf[m[24;116H5-22[7;22H[?25h[?25l[95mu[m[24;116H6-23[7;23H[?25h[?25l[95mn[m[24;116H7-24[7;24H[?25h[?25l
+[95m        [m[8;9H[K[24;113H8,2-9  [8;9H[?25h[?25l[8;1H[K[24;115H1  [8;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H7,17-24[7;24H[?25h[?25l[95m.[m[24;116H8-25[7;25H[?25h[?25l[95mc[m[24;116H9-26[7;26H[?25h[?25l[24;116H8-25[7;25H[?25h[?25l[24;116H7-24[7;24H[?25h[?25l[24;116H6-23[7;23H[?25h[?25l[24;116H5-22[7;22H[?25h[?25l[24;116H4-21[7;21H[?25h[?25l[24;116H3-20[7;20H[?25h[?25l[24;116H2-19[7;19H[?25h[?25l[24;116H1-18[7;18H[?25h[?25l[24;116H0-17[7;17H[?25h[?25l[24;115H9-16 [7;16H[?25h[?25l[24;115H8-15[7;15H[?25h[?25l[24;115H7-14[7;14H[?25h[?25l[24;115H6-13[7;13H[?25h[?25l[24;115H5-12[7;12H[?25h[?25l[24;115H4-11[7;11H[?25h[?25l[24;115H3-10[7;10H[?25h[?25l[24;115H2-9 [7;9H[?25h[?25l[24;115H1  [7;1H[?25h[?25l[24;113H6[6;1H[?25h[?25l[24;113H5[5;1H[?25h[?25l[24;113H4[4;1H[?25h[?25l[24;113H3[3;1H[?25h[?25l[24;115H2[3;2H[?25h[?25l[24;115H3[3;3H[?25h[?25l[24;115H4[3;4H[?25h[?25l[24;115H5[3;5H[?25h[?25l[24;115H6[3;6H[?25h[?25l[1m[96m.:[m L5bit.c L5.h[24;115H7[3;7H[?25h[?25l[1m[96mo:[m L5bit.c L5.h[24;115H8[3;8H[?25h[24;1H[K[3;7H[?25l[24;103H^[[3;7H[24;103H  [3;8H[24;113H3,7[11CAll[3;7H[?25h[?25l[24;103H:[3;7H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"Makefile" 7L, 143B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi Makefile[1Pmake L5bit[K[K[K[K[K[K
+[?2004lgcc -c L5bit.c
+[01m[KL5bit.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[KL5bit.c:17:25:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kisidentical[m[K’; did you mean ‘[01m[Kisindentcal[m[K’? [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   17 |         printf("%d\n" , [01;35m[Kisidentical[m[K(x,y));
+      |                         [01;35m[K^~~~~~~~~~~[m[K
+      |                         [32m[Kisindentcal[m[K
+cc    -c -o L5bitfun.o L5bitfun.c
+gcc -o L5bit L5bit.o L5bitfun.o
+/usr/bin/ld: L5bit.o: in function `main':
+L5bit.c:(.text+0x50): undefined reference to `isidentical'
+collect2: error: ld returned 1 exit status
+make: *** [Makefile:2: L5bit] Error 1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bit.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bit.c" 21L, 234B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * lab5 q8
+ */[m
+
+
+[35m#include [m[31m<stdio.h>[m
+[35m#include [m[31m"L5.h"[m
+
+[32mint[m main([32mvoid[m){[12;9H[32mint[m x, y;[14;9Hprintf([31m"enter x and y"[m);[15;9Hscanf([31m"[m[35m%d[m[31m [m[35m%d[m[31m"[m , &x,&y);[17;9Hprintf([31m"[m[35m%d\n[m[31m"[m , isidentical(x,y));[19;9H[38;5;130mreturn[m [31m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H17,35-42      All[17;42H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[17;42H[24;104H3[17;42H[24;105H0[17;42H[24;106H/[17;42H[24;107H0[17;42H[24;108Ha[17;42H[24;109H0[17;42H[24;110Ha[17;42H[24;111H/[17;42H[24;112H2[17;42H[24;103H          [17;42H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * lab5 q8
+ */[m
+
+
+[38;5;81m#include [m[95m<stdio.h>[m
+[38;5;81m#include [m[95m"L5.h"[m
+
+[38;5;121mint[m main([38;5;121mvoid[m){[12;9H[38;5;121mint[m x, y;[14;9Hprintf([95m"enter x and y"[m);[15;9Hscanf([95m"[m[38;5;224m%d[m[95m [m[38;5;224m%d[m[95m"[m , &x,&y);[17;9Hprintf([95m"[m[38;5;224m%d\n[m[95m"[m , isidentical(x,y));[19;9H[93mreturn[m [95m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H17,35-42      All"L5bit.c" 21L, 234B[17;42H[?25h[?25l[24;103H^[[17;42H[24;103H  [17;42H[24;103H^[[17;42H[24;103H  [17;42H[?25h[?25l[24;103H:[17;42H[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bit.c" 21L, 234B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ cp L5bit [K.c L5arg.c
+[?2004l[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5arg.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5arg.c" 21L, 234B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * lab5 q8
+ */[m
+
+
+[35m#include [m[31m<stdio.h>[m
+[35m#include [m[31m"L5.h"[m
+
+[32mint[m main([32mvoid[m){[12;9H[32mint[m x, y;[14;9Hprintf([31m"enter x and y"[m);[15;9Hscanf([31m"[m[35m%d[m[31m [m[35m%d[m[31m"[m , &x,&y);[17;9Hprintf([31m"[m[35m%d\n[m[31m"[m , isidentical(x,y));[19;9H[38;5;130mreturn[m [31m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H1,1[11CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[1;1H[24;104H3[1;1H[24;105H0[1;1H[24;106H/[1;1H[24;107H0[1;1H[24;108Ha[1;1H[24;109H0[1;1H[24;110Ha[1;1H[24;111H/[1;1H[24;112H2[1;1H[24;103H          [1;1H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * lab5 q8
+ */[m
+
+
+[38;5;81m#include [m[95m<stdio.h>[m
+[38;5;81m#include [m[95m"L5.h"[m
+
+[38;5;121mint[m main([38;5;121mvoid[m){[12;9H[38;5;121mint[m x, y;[14;9Hprintf([95m"enter x and y"[m);[15;9Hscanf([95m"[m[38;5;224m%d[m[95m [m[38;5;224m%d[m[95m"[m , &x,&y);[17;9Hprintf([95m"[m[38;5;224m%d\n[m[95m"[m , isidentical(x,y));[19;9H[93mreturn[m [95m0[m ;
+}
+
+[94m~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H1,1[11CAll"L5arg.c" 21L, 234B[1;1H[?25h[?25l[24;103H~@k[1;1H[24;103H   [2;1H[24;113H2[2;1H[?25h[?25l[24;103H~@k[2;1H[24;103H   [3;1H[24;113H3[3;1H[?25h[?25l[24;103H~@k[3;1H[24;103H   [4;1H[24;113H4[4;1H[?25h[?25l[24;103H~@k[4;1H[24;103H   [5;1H[24;113H5[5;1H[?25h[?25l[24;103H~@k[5;1H[24;103H   [6;1H[24;113H6,0-1[6;1H[?25h[?25l[24;103H~@k[6;1H[24;103H   [7;1H[24;113H7[7;1H[?25h[?25l[24;103H#[7;1H[24;1H[97m[41mE348: No string under cursor[m[24;103H[K[7;1H[24;113H7,0-1[9CAll[7;1H[?25h[?25l[24;103Hi[7;1H[24;103H [7;1H[24;1H[1m-- INSERT --[m[24;13H[K[24;113H7,1[11CAll[7;1H[?25h[?25l$[24;115H2[7;2H[?25h[?25l[7;1H[K[24;115H1[7;1H[?25h[?25l#[24;115H2[7;2H[?25h[?25li[24;115H3[7;3H[?25h[?25ln[24;115H4[7;4H[?25h[?25lc[24;115H5[7;5H[?25h[?25ll[24;115H6[7;6H[?25h[?25lu[24;115H7[7;7H[?25h[?25ld[24;115H8[7;8H[?25h[?25le[24;115H9[7;9H[?25h[?25l[24;115H10[7;10H[?25h[?25l[38;5;81m#include <[m[24;116H1[7;11H[?25h[?25lfk[24;116H3[7;13H[?25h[?25l[7;12H[K[24;116H2[7;12H[?25h[?25l[7;11H[K[24;116H1[7;11H[?25h[?25ls[24;116H2[7;12H[?25h[?25lt[24;116H3[7;13H[?25h[?25ld[24;116H4[7;14H[?25h[?25ll[24;116H5[7;15H[?25h[?25li[24;116H6[7;16H[?25h[?25lo[24;116H7[7;17H[?25h[?25l[7;10H[95m<stdlio>[m[24;116H8[7;18H[?25h[?25l[7;10H[38;5;81m<[mstdlio[7;17H[K[24;116H7[7;17H[?25h[?25l.[24;116H8[7;18H[?25h[?25lh[24;116H9[7;19H[?25h[?25l[7;10H[95m<stdlio.h>[m[24;115H20[7;20H[?25h[?25l[24;113H8,19[8;19H[?25h[?25l[24;113H9,16[9;16H[?25h[?25l[24;113H10,1[10;1H[?25h[?25l[11;15H[46m{[20;1H}[m[24;114H1,16[11;16H[?25h[?25l{[20;1H}[24;114H2,11-18[12;18H[?25h[?25l[24;114H3,1    [13;1H[?25h[?25l[24;114H4,13-20[14;20H[?25h[?25l[24;114H5[15;20H[?25h[?25l[24;114H6,1    [16;1H[?25h[?25l[24;114H7,13-20[17;20H[?25h[?25l[24;114H8,1    [18;1H[?25h[?25l[24;114H9,12-19[19;19H[?25h[?25l[11;15H[46m{[20;1H}[m[24;113H20,2    [20;2H[?25h[?25l[11;15H{[20;1H}[24;114H1,1[21;1H[?25h[?25l[94m~                                                                                                                                 [m[11;15H[46m{[20;1H}[m[24;114H0,2[20;2H[?25h[?25l[20;1H[K[11;15H{[24;116H1[20;1H[?25h[?25l[94m~                                                                                                                                 [m[24;113H19,12-19[19;19H[?25h[?25l[19;18H[K[24;117H1-18[19;18H[?25h[?25l[24;117H0-17[19;17H[?25h[?25l[19;16H[K[24;116H9-16 [19;16H[?25h[?25l[24;116H8-15[19;15H[?25h[?25lretur[19;14H[K[24;116H7-14[19;14H[?25h[?25l[19;13H[K[24;116H6-13[19;13H[?25h[?25l[19;12H[K[24;116H5-12[19;12H[?25h[?25l[19;11H[K[24;116H4-11[19;11H[?25h[?25l[19;10H[K[24;116H3-10[19;10H[?25h[?25l[19;9H[K[24;116H2-9 [19;9H[?25h[?25l[24;116H1  [19;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H8[18;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H7,36-43[17;43H[?25h[?25l[17;42H[K[17;15H[46m([25C)[m[24;117H5-42[17;42H[?25h[?25l[17;41H[K[17;15H([20C[46m([mx,y[46m)[m[24;117H4-41[17;41H[?25h[?25l[17;40H[K[17;36H([24;117H3-40[17;40H[?25h[?25l[17;39H[K[24;117H2-39[17;39H[?25h[?25l[17;38H[K[24;117H1-38[17;38H[?25h[?25l[17;37H[K[24;117H0-37[17;37H[?25h[?25l[17;36H[K[24;116H29-36[17;36H[?25h[?25l[17;35H[K[24;117H8-35[17;35H[?25h[?25l[17;34H[K[24;117H7-34[17;34H[?25h[?25l[17;33H[K[24;117H6-33[17;33H[?25h[?25l[17;32H[K[24;117H5-32[17;32H[?25h[?25l[17;31H[K[24;117H4-31[17;31H[?25h[?25l[17;30H[K[24;117H3-30[17;30H[?25h[?25l[17;29H[K[24;117H2-29[17;29H[?25h[?25l[17;28H[K[24;117H1-28[17;28H[?25h[?25l[17;27H[K[24;117H0-27[17;27H[?25h[?25l[17;26H[K[24;116H19-26[17;26H[?25h[?25l[17;25H[K[24;117H8-25[17;25H[?25h[?25l[24;117H7-24[17;24H[?25h[?25l[17;23H[K[24;117H6-23[17;23H[?25h[?25l[24;117H5-22[17;22H[?25h[?25l[17;21H[K[24;117H4-21[17;21H[?25h[?25l[17;20H[K[24;117H3-20[17;20H[?25h[?25l[17;19H[K[24;117H2-19[17;19H[?25h[?25l[95m%[m[17;18H[K[24;117H1-18[17;18H[?25h[?25l[17;17H[K[24;117H0-17[17;17H[?25h[?25l[17;16H[K[24;116H9-16 [17;16H[?25h[?25l[17;15H[K[24;116H8-15[17;15H[?25h[?25l[17;14H[K[24;116H7-14[17;14H[?25h[?25l[17;13H[K[24;116H6-13[17;13H[?25h[?25l[17;12H[K[24;116H5-12[17;12H[?25h[?25l[17;11H[K[24;116H4-11[17;11H[?25h[?25l[17;10H[K[24;116H3-10[17;10H[?25h[?25l[17;9H[K[24;116H2-9 [17;9H[?25h[?25l[24;116H1  [17;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H6[16;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H5,25-32[15;32H[?25h[?25l[15;31H[K[15;14H[46m([15C)[m[24;117H4-31[15;31H[?25h[?25l[15;30H[K[15;14H([24;117H3-30[15;30H[?25h[?25l[15;29H[K[24;117H2-29[15;29H[?25h[?25l[15;28H[K[24;117H1-28[15;28H[?25h[?25l[15;27H[K[24;117H0-27[15;27H[?25h[?25l[15;26H[K[24;116H19-26[15;26H[?25h[?25l[15;25H[K[24;117H8-25[15;25H[?25h[?25l[24;117H7-24[15;24H[?25h[?25l[15;23H[K[24;117H6-23[15;23H[?25h[?25l[24;117H5-22[15;22H[?25h[?25l[15;21H[K[24;117H4-21[15;21H[?25h[?25l[95m%[m[15;20H[K[24;117H3-20[15;20H[?25h[?25l[15;19H[K[24;117H2-19[15;19H[?25h[?25l[15;18H[K[24;117H1-18[15;18H[?25h[?25l[95m%[m[15;17H[K[24;117H0-17[15;17H[?25h[?25l[15;16H[K[24;116H9-16 [15;16H[?25h[?25l[15;15H[K[24;116H8-15[15;15H[?25h[?25l[15;14H[K[24;116H7-14[15;14H[?25h[?25l[15;13H[K[24;116H6-13[15;13H[?25h[?25l[15;12H[K[24;116H5-12[15;12H[?25h[?25l[15;11H[K[24;116H4-11[15;11H[?25h[?25l[15;10H[K[24;116H3-10[15;10H[?25h[?25l[15;9H[K[24;116H2-9 [15;9H[?25h[?25l[24;116H1  [15;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H4,26-33[14;33H[?25h[?25l[14;32H[K[14;15H[46m([15C)[m[24;117H5-32[14;32H[?25h[?25l[14;31H[K[14;15H([24;117H4-31[14;31H[?25h[?25l[14;30H[K[24;117H3-30[14;30H[?25h[?25l[14;29H[K[24;117H2-29[14;29H[?25h[?25l[14;28H[K[24;117H1-28[14;28H[?25h[?25l[14;27H[K[24;117H0-27[14;27H[?25h[?25l[14;26H[K[24;116H19-26[14;26H[?25h[?25l[14;25H[K[24;117H8-25[14;25H[?25h[?25l[14;24H[K[24;117H7-24[14;24H[?25h[?25l[14;23H[K[24;117H6-23[14;23H[?25h[?25l[14;22H[K[24;117H5-22[14;22H[?25h[?25l[14;21H[K[24;117H4-21[14;21H[?25h[?25l[14;20H[K[24;117H3-20[14;20H[?25h[?25l[14;19H[K[24;117H2-19[14;19H[?25h[?25l[14;18H[K[24;117H1-18[14;18H[?25h[?25l[14;17H[K[24;117H0-17[14;17H[?25h[?25l[14;16H[K[24;116H9-16 [14;16H[?25h[?25l[14;15H[K[24;116H8-15[14;15H[?25h[?25l[14;14H[K[24;116H7-14[14;14H[?25h[?25l[14;13H[K[24;116H6-13[14;13H[?25h[?25l[14;12H[K[24;116H5-12[14;12H[?25h[?25l[14;11H[K[24;116H4-11[14;11H[?25h[?25l[14;10H[K[24;116H3-10[14;10H[?25h[?25l[14;9H[K[24;116H2-9 [14;9H[?25h[?25l[24;116H1  [14;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H3[13;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H2,11-18[12;18H[?25h[?25l[12;17H[K[24;117H0-17[12;17H[?25h[?25l[12;16H[K[24;116H9-16 [12;16H[?25h[?25l[24;116H8-15[12;15H[?25h[?25l[12;14H[K[24;116H7-14[12;14H[?25h[?25l[12;13H[K[24;116H6-13[12;13H[?25h[?25l[24;116H5-12[12;12H[?25h[?25lin[12;11H[K[24;116H4-11[12;11H[?25h[?25l[12;10H[K[24;116H3-10[12;10H[?25h[?25l[12;9H[K[24;116H2-9 [12;9H[?25h[?25l[24;116H1  [12;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H1,16[11;16H[?25h[?25l[11;15H[K[11;9H[46m([4C)[m[24;117H5[11;15H[?25h[?25l[11;14H[K[11;9H([24;117H4[11;14H[?25h[?25lvoi[11;13H[K[24;117H3[11;13H[?25h[?25l[11;12H[K[24;117H2[11;12H[?25h[?25l[11;11H[K[24;117H1[11;11H[?25h[?25l[11;10H[K[24;117H0[11;10H[?25h[?25l[11;9H[K[24;116H9 [11;9H[?25h[?25l[11;8H[K[24;116H8[11;8H[?25h[?25l[11;7H[K[24;116H7[11;7H[?25h[?25l[11;6H[K[24;116H6[11;6H[?25h[?25l[11;5H[K[24;116H5[11;5H[?25h[?25l[24;116H4[11;4H[?25h[?25lin[11;3H[K[24;116H3[11;3H[?25h[?25l[11;2H[K[24;116H2[11;2H[?25h[?25l[11;1H[K[24;116H1[11;1H[?25h[?25lnt[24;116H3[11;3H[?25h[?25l[24;116H4[11;4H[?25h[?25l[24;116H3[11;3H[?25h[?25l[11;2H[K[24;116H2[11;2H[?25h[?25l[11;1H[K[24;116H1[11;1H[?25h[?25l[94m~                                                                                                                                 [m[24;114H0[10;1H[?25h[?25li[24;116H2[10;2H[?25h[?25ln[24;116H3[10;3H[?25h[?25l[38;5;121mint[m[24;116H4[10;4H[?25h[?25lin[10;3H[K[24;116H3[10;3H[?25h[?25l[10;2H[K[24;116H2[10;2H[?25h[?25l[10;1H[K[24;116H1[10;1H[?25h[?25l[11;1H[K[24;114H1[11;1H[?25h[?25l[12;1H[K[24;114H2[12;1H[?25h[?25li[24;116H2[12;2H[?25h[?25ln[24;116H3[12;3H[?25h[?25l[38;5;121mint[m[24;116H4[12;4H[?25h[?25l[24;116H5[12;5H[?25h[?25lm[24;116H6[12;6H[?25h[?25la[24;116H7[12;7H[?25h[?25li[24;116H8[12;8H[?25h[?25ln[24;116H9[12;9H[?25h[?25l([24;116H10[12;10H[?25h[?25ln[24;117H1[12;11H[?25h[?25lt[24;117H2[12;12H[?25h[?25l[24;117H3[12;13H[?25h[?25l[24;117H2[12;12H[?25h[?25l[12;11H[K[24;117H1[12;11H[?25h[?25l[12;10H[K[24;117H0[12;10H[?25h[?25li[24;117H1[12;11H[?25h[?25ln[24;117H2[12;12H[?25h[?25l[38;5;121mint[m[24;117H3[12;13H[?25h[?25l[24;117H4[12;14H[?25h[?25la[24;117H5[12;15H[?25h[?25lr[24;117H6[12;16H[?25h[?25lg[24;117H7[12;17H[?25h[?25lc[24;117H8[12;18H[?25h[?25l,[24;117H9[12;19H[?25h[?25lc[24;116H20[12;20H[?25h[?25lh[24;117H1[12;21H[?25h[?25ls[24;117H2[12;22H[?25h[?25l[12;21H[K[24;117H1[12;21H[?25h[?25la[24;117H2[12;22H[?25h[?25l[38;5;121mchar[m[24;117H3[12;23H[?25h[?25l*[24;117H4[12;24H[?25h[?25la[24;117H5[12;25H[?25h[?25lr[24;117H6[12;26H[?25h[?25lg[24;117H7[12;27H[?25h[?25lc[24;117H8[12;28H[?25h[?25l[12;27H[K[24;117H7[12;27H[?25h[?25l[24;117H6[12;26H[?25h[?25l[24;117H5[12;25H[?25h[?25l[24;117H4[12;24H[?25h[?25l[24;117H3[12;23H[?25h[?25l[24;117H2[12;22H[?25h[?25lcha r*arg[24;117H3[12;23H[?25h[?25l[38;5;121mchar[m*arg[12;27H[K[24;117H2[12;22H[?25h[?25l[24;117H3[12;23H[?25h[?25l *arg[24;117H4[12;24H[?25h[?25l[24;117H5[12;25H[?25h[?25l[24;117H6[12;26H[?25h[?25l[24;117H5[12;25H[?25h[?25l[24;117H6[12;26H[?25h[?25l[24;117H7[12;27H[?25h[?25l[24;117H8[12;28H[?25h[?25lv[24;117H9[12;29H[?25h[?25l[[24;116H30[12;30H[?25h[?25l][46m[][m[24;117H1[12;31H[?25h[?25l)[12;9H[46m([m[19C[][46m)[m[24;117H2[12;32H[?25h[?25l[[12;9H([21C)[24;117H3[12;33H[?25h[?25l
+        [13;9H[K[24;114H3,2-9[13;9H[?25h[?25li[24;116H3-10[13;10H[?25h[?25ln[24;116H4-11[13;11H[?25h[?25ly[24;116H5-12[13;12H[?25h[?25l[24;116H6-13[13;13H[?25h[?25l[24;116H5-12[13;12H[?25h[?25l[13;11H[K[24;116H4-11[13;11H[?25h[?25l[38;5;121mint[m[24;116H5-12[13;12H[?25h[?25l[24;116H6-13[13;13H[?25h[?25l[24;116H5-12[13;12H[?25h[?25l[24;116H6-13[13;13H[?25h[?25lx[24;116H7-14[13;14H[?25h[?25l=[24;116H8-15[13;15H[?25h[?25l[24;116H9-16[13;16H[?25h[?25lt[24;116H10-17[13;17H[?25h[?25l[13;16H[K[24;116H9-16 [13;16H[?25h[?25lA[24;116H10-17[13;17H[?25h[?25l[13;16H[K[24;116H9-16 [13;16H[?25h[?25la[24;116H10-17[13;17H[?25h[?25lt[24;117H1-18[13;18H[?25h[?25li[24;117H2-19[13;19H[?25h[?25lo[24;117H3-20[13;20H[?25h[?25l([24;117H4-21[13;21H[?25h[?25lr[24;117H5-22[13;22H[?25h[?25l[13;21H[K[24;117H4-21[13;21H[?25h[?25la[24;117H5-22[13;22H[?25h[?25lr[24;117H6-23[13;23H[?25h[?25lg[24;117H7-24[13;24H[?25h[?25lc[24;117H8-25[13;25H[?25h[?25l[13;24H[K[24;117H7-24[13;24H[?25h[?25lv[24;117H8-25[13;25H[?25h[?25l[[24;117H9-26[13;26H[?25h[?25l[95m1[m[24;116H20-27[13;27H[?25h[?25l][46m[[1C][m[24;117H1-28[13;28H[?25h[?25l)[13;20H[46m([margv[[1C][46m)[m[24;117H2-29[13;29H[?25h[?25l[97m[101m;[m[13;20H([7C)[24;117H3-30[13;30H[?25h[?25l
+        [14;9H[K[24;114H4,2-9  [14;9H[?25h[?25li[24;116H3-10[14;10H[?25h[?25ln[24;116H4-11[14;11H[?25h[?25ly[24;116H5-12[14;12H[?25h[?25l[14;11H[K[24;116H4-11[14;11H[?25h[?25l[38;5;121mint[m[24;116H5-12[14;12H[?25h[?25l[24;116H6-13[14;13H[?25h[?25ly[24;116H7-14[14;14H[?25h[?25l=[24;116H8-15[14;15H[?25h[?25la[24;116H9-16[14;16H[?25h[?25lt[24;116H10-17[14;17H[?25h[?25li[24;117H1-18[14;18H[?25h[?25lo[24;117H2-19[14;19H[?25h[?25l([24;117H3-20[14;20H[?25h[?25la[24;117H4-21[14;21H[?25h[?25lr[24;117H5-22[14;22H[?25h[?25lg[24;117H6-23[14;23H[?25h[?25lv[24;117H7-24[14;24H[?25h[?25l[[24;117H8-25[14;25H[?25h[?25l[95m2[m[24;117H9-26[14;26H[?25h[?25l][46m[[1C][m[24;116H20-27[14;27H[?25h[?25l)[14;19H[46m([margv[[1C][46m)[m[24;117H1-28[14;28H[?25h[?25l[97m[101m;[m[14;19H([7C)[24;117H2-29[14;29H[?25h[?25l
+        [15;9H[K[24;114H5,2-9  [15;9H[?25h[?25lp[24;116H3-10[15;10H[?25h[?25lr[24;116H4-11[15;11H[?25h[?25li[24;116H5-12[15;12H[?25h[?25ln[24;116H6-13[15;13H[?25h[?25lt[24;116H7-14[15;14H[?25h[?25lf[24;116H8-15[15;15H[?25h[?25l([24;116H9-16[15;16H[?25h[?25l[95m"[m[24;116H10-17[15;17H[?25h[?25l[95m%[m[24;117H1-18[15;18H[?25h[?25l[38;5;224m%d[m[24;117H2-19[15;19H[?25h[?25l[95m/[m[24;117H3-20[15;20H[?25h[?25l[15;19H[K[24;117H2-19[15;19H[?25h[?25l[38;5;224m\[m[24;117H3-20[15;20H[?25h[?25l[38;5;224mn[m[24;117H4-21[15;21H[?25h[?25l[95m"[m[24;117H5-22[15;22H[?25h[?25l,[24;117H6-23[15;23H[?25h[?25lis[24;117H8-25[15;25H[?25h[?25li[24;117H9-26[15;26H[?25h[?25ld[24;116H20-27[15;27H[?25h[?25le[24;117H1-28[15;28H[?25h[?25ln[24;117H2-29[15;29H[?25h[?25lt[24;117H3-30[15;30H[?25h[?25li[24;117H4-31[15;31H[?25h[?25lc[24;117H5-32[15;32H[?25h[?25la[24;117H6-33[15;33H[?25h[?25ll[24;117H7-34[15;34H[?25h[?25l([24;117H8-35[15;35H[?25h[?25lx[24;117H9-36[15;36H[?25h[?25l,[24;116H30-37[15;37H[?25h[?25ly[24;117H1-38[15;38H[?25h[?25l)[46m([mx,y[46m)[m[24;117H2-39[15;39H[?25h[?25l[95m0[m(x,y)[24;117H3-40[15;40H[?25h[?25l[15;39H[K[15;34H[46m([mx,y[46m)[m[24;117H2-39[15;39H[?25h[?25l)[15;15H[46m([m[18C(x,y)[46m)[m[24;117H3-40[15;40H[?25h[?25l[97m[101m;[m[15;15H([23C)[24;117H4-41[15;41H[?25h[?25l
+        [16;9H[K[24;114H6,2-9  [16;9H[?25h[?25le[24;116H3-10[16;10H[?25h[?25l[16;9H[K[24;116H2-9 [16;9H[?25h[?25lr[24;116H3-10[16;10H[?25h[?25le[24;116H4-11[16;11H[?25h[?25lt[24;116H5-12[16;12H[?25h[?25lu[24;116H6-13[16;13H[?25h[?25lr[24;116H7-14[16;14H[?25h[?25l[93mreturn[m[24;116H8-15[16;15H[?25h[?25l[24;116H9-16[16;16H[?25h[?25l[95m0[m[24;116H10-17[16;17H[?25h[?25l[97m[101m;[m[24;117H1-18[16;18H[?25h[?25l
+        [17;9H[K[24;114H7,2-9  [17;9H[?25h[?25l}[24;116H3-10[17;10H[?25h[?25l[17;9H[K[24;116H2-9 [17;9H[?25h[?25l}[24;116H3-10[17;10H[?25h[?25l[17;9H[K[24;116H2-9 [17;9H[?25h[?25l}[24;116H3-10[17;10H[?25h[?25l[24;116H2-9 [17;9H[?25h[?25l[24;116H1  [17;1H[?25h[?25l[24;114H6[16;1H[?25h[?25l[24;114H5[15;1H[?25h[?25l[24;114H4[14;1H[?25h[?25l[24;114H3[13;1H[?25h[?25l[24;114H4[14;1H[?25h[?25l[24;114H3[13;1H[?25h[?25l[24;114H2[12;1H[?25h[?25l[24;116H2[12;2H[?25h[?25l[24;116H3[12;3H[?25h[?25l[24;116H4[12;4H[?25h[?25l[24;116H5[12;5H[?25h[?25l[24;116H6[12;6H[?25h[?25l[24;116H7[12;7H[?25h[?25l[24;116H8[12;8H[?25h[?25ln[46m([21C)[m[24;116H9[12;9H[?25h[?25l[24;116H10[12;10H[?25h[?25l([21C)[24;117H1[12;11H[?25h[?25l[24;117H2[12;12H[?25h[?25l[24;117H3[12;13H[?25h[?25l[24;117H4[12;14H[?25h[?25l[24;117H5[12;15H[?25h[?25l[24;117H6[12;16H[?25h[?25l[24;117H7[12;17H[?25h[?25l[24;117H8[12;18H[?25h[?25l[24;117H9[12;19H[?25h[?25l[24;116H20[12;20H[?25h[?25l[24;117H1[12;21H[?25h[?25l[24;117H2[12;22H[?25h[?25l[24;117H3[12;23H[?25h[?25l[24;117H4[12;24H[?25h[?25l[24;117H5[12;25H[?25h[?25l[24;117H6[12;26H[?25h[?25l[24;117H7[12;27H[?25h[?25l[24;117H8[12;28H[?25h[?25lv[46m[][m[24;117H9[12;29H[?25h[?25l[24;116H30[12;30H[?25h[?25l[12;9H[46m([m[19C[][46m)[m[24;117H1[12;31H[?25h[?25l[12;9H([21C)[24;117H2[12;32H[?25h[?25l[24;117H3[12;33H[?25h[?25l[12;32H[K[13;29H;[14;28H;[15;40H;[16;17H;[12;9H[46m([21C)[m[24;117H2[12;32H[?25h[?25l{[12;9H([21C)[46m{[17;9H}[m[24;117H3[12;33H[?25h[?25l[13;23r[13;1H[L[1;24r[17;9H[93m[46mr[m[18;9H}[24;113H[K[24;113H13,2-9[8CAll[12;32H{[17;9H[93mr[13;9H[?25h[m[24;1H[K[13;1H[?25l[24;103H^[[13;1H[24;103H  [13;9H[24;113H13,0-1[8CAll[13;1H[?25h[?25l[24;103H:[13;1H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5arg.c" 18L, 249B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ am[K[Kmake clean
+[?2004lmake: *** No rule to make target 'clean'.  Stop.
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ak[K[Ka[Kmakw[Kw[Ke
+[?2004lgcc -c L5bit.c
+[01m[KL5bit.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[KL5bit.c:17:25:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kisidentical[m[K’; did you mean ‘[01m[Kisindentcal[m[K’? [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   17 |         printf("%d\n" , [01;35m[Kisidentical[m[K(x,y));
+      |                         [01;35m[K^~~~~~~~~~~[m[K
+      |                         [32m[Kisindentcal[m[K
+gcc -o L5bit L5bit.o L5bitfun.o
+/usr/bin/ld: L5bit.o: in function `main':
+L5bit.c:(.text+0x50): undefined reference to `isidentical'
+collect2: error: ld returned 1 exit status
+make: *** [Makefile:2: L5bit] Error 1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ls
+[?2004lL5arg.c  L5bit.c  L5bitfun.c  L5bitfun.o  L5bit.o  L5.h  Lab05Report.txt  Makefile  myloge.txt
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ l[KL5.h
+[?2004lL5.h: command not found
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ L5.hvL5.hiL5.h L5.h
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5.h" 1L, 31B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[32mint[m isindentcal([32mint[m x, [32mint[m y);
+[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H1,30[10CAll[1;30H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[1;30H[24;104H3[1;30H[24;105H0[1;30H[24;106H/[1;30H[24;107H0[1;30H[24;108Ha[1;30H[24;109H0[1;30H[24;110Ha[1;30H[24;111H/[1;30H[24;112H2[1;30H[24;103H          [1;30H[27m[23m[29m[m[H[2J[1;1H[38;5;121mint[m isindentcal([38;5;121mint[m x, [38;5;121mint[m y);
+[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H1,30[10CAll"L5.h" 1L, 31B[1;30H[?25h[?25l[24;103H~@k[1;30H[24;103H   [1;29H[1;16H[46m([12C)[m[24;115H29[1;29H[?25h[?25l[24;103H~@k[1;29H[24;103H   [1;28H[1;16H([12C)[24;116H8[1;28H[?25h[?25l[24;103H~@k[1;28H[24;103H   [1;27H[24;116H7[1;27H[?25h[?25l[24;103H~@k[1;27H[24;103H   [1;26H[24;116H6[1;26H[?25h[?25l[24;103H~@k[1;26H[24;103H   [1;25H[24;116H5[1;25H[?25h[?25l[24;103H~@k[1;25H[24;103H   [1;24H[24;116H4[1;24H[?25h[?25l[24;103H~@k[1;24H[24;103H   [1;23H[24;116H3[1;23H[?25h[?25l[24;103H~@k[1;23H[24;103H   [1;22H[24;116H2[1;22H[?25h[?25l[24;103H~@k[1;22H[24;103H   [1;21H[24;116H1[1;21H[?25h[?25l[24;103H~@k[1;21H[24;103H   [1;20H[24;116H0[1;20H[?25h[?25l[24;103H~@k[1;20H[24;103H   [1;19H[24;115H19[1;19H[?25h[?25l[24;103H~@k[1;19H[24;103H   [1;18H[24;116H8[1;18H[?25h[?25l[24;103H~@k[1;18H[24;103H   [1;17H[24;116H7[1;17H[?25h[?25l[24;103H~@k[1;17H[24;103H   [1;16H[46m([12C)[m[24;116H6[1;16H[?25h[?25l[24;103H~@k[1;16H[24;103H   [1;15Hl([12C)[24;116H5[1;15H[?25h[?25l[24;103H~@k[1;15H[24;103H   [1;14H[24;116H4[1;14H[?25h[?25l[24;103H~@k[1;14H[24;103H   [1;13H[24;116H3[1;13H[?25h[?25l[24;103H~@k[1;13H[24;103H   [1;12H[24;116H2[1;12H[?25h[?25l[24;103H~@k[1;12H[24;103H   [1;11H[24;116H1[1;11H[?25h[?25l[24;103H~@k[1;11H[24;103H   [1;10H[24;116H0[1;10H[?25h[?25l[24;103H~@k[1;10H[24;103H   [1;9H[24;115H9 [1;9H[?25h[?25l[24;103H~@k[1;9H[24;103H   [1;8H[24;115H8[1;8H[?25h[?25l[24;103H~@k[1;8H[24;103H   [1;9H[24;115H9[1;9H[?25h[?25l[24;103Hi[1;9H[24;103H [1;9H[24;1H[1m-- INSERT --[m[24;13H[K[24;113H1,9[11CAll[1;9H[?25h[?25ldentcal([38;5;121mint[m x, [38;5;121mint[m y);[1;30H[K[24;115H8[1;8H[?25h[?25l[24;115H9[1;9H[?25h[?25l[24;115H10[1;10H[?25h[?25l[24;116H1[1;11H[?25h[?25l[24;116H2[1;12H[?25h[?25lical([38;5;121mint[m x, [38;5;121mint[m y);[24;116H3[1;13H[?25h[24;1H[K[1;12H[?25l[24;103H^[[1;12H[24;103H  [1;13H[24;113H1,12[10CAll[1;12H[?25h[?25l[24;103H:[1;12H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5.h" 1L, 31B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5.h[3PL5.h[2Plsmake
+[?2004lgcc -c L5bit.c
+gcc -o L5bit L5bit.o L5bitfun.o
+/usr/bin/ld: L5bit.o: in function `main':
+L5bit.c:(.text+0x50): undefined reference to `isidentical'
+collect2: error: ld returned 1 exit status
+make: *** [Makefile:2: L5bit] Error 1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bitfun.c
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"L5bitfun.c" 10L, 118B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[34m/*
+ * Abdelrahman Haitham Alkhatib[m[2;32H[K[3;1H[34m * [m[31m2241148076[m[3;14H[K[4;1H[34m * Lab5 q6
+ */[m
+
+[32mint[m isidentcal([32mint[m x, [32mint[m y){[8;9H[38;5;130mreturn[m  !(x ^ y );
+}
+
+[94m~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H8,10-17[7CAll[8;17H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\P$q q\[?12$p[?25l[24;103H0[8;17H[24;104H3[8;17H[24;105H0[8;17H[24;106H/[8;17H[24;107H0[8;17H[24;108Ha[8;17H[24;109H0[8;17H[24;110Ha[8;17H[24;111H/[8;17H[24;112H2[8;17H[24;103H          [8;17H[27m[23m[29m[m[H[2J[1;1H[96m/*
+ * Abdelrahman Haitham Alkhatib
+ * [m[95m2241148076[m
+[96m * Lab5 q6
+ */[m
+
+[38;5;121mint[m isidentcal([38;5;121mint[m x, [38;5;121mint[m y){[8;9H[93mreturn[m  !(x ^ y );
+}
+
+[94m~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [m[24;113H8,10-17[7CAll"L5bitfun.c" 10L, 118B[8;17H[?25h[?25l[24;103H~@k[8;17H[24;103H   [7;17H[24;113H7,17   [7;17H[?25h[?25l[24;103H~@k[7;17H[24;103H   [7;16H[24;116H6[7;16H[?25h[?25l[24;103H~@k[7;16H[24;103H   [7;15H[46m([12C)[m[24;116H5[7;15H[?25h[?25l[24;103H~@k[7;15H[24;103H   [7;14Hl([12C)[24;116H4[7;14H[?25h[?25l[24;103H~@k[7;14H[24;103H   [7;13H[24;116H3[7;13H[?25h[?25l[24;103H~@k[7;13H[24;103H   [7;12H[24;116H2[7;12H[?25h[?25l[24;103Hi[7;12H[24;103H [7;12H[24;1H[1m-- INSERT --[m[24;14H[K[24;113H7,12[10CAll[7;12H[?25h[?25lical([38;5;121mint[m x, [38;5;121mint[m y){[24;116H3[7;13H[?25h[24;1H[K[7;12H[?25l[24;103H^[[7;12H[24;103H  [7;13H[24;113H7,12[10CAll[7;12H[?25h[?25l[24;103H:[7;12H[24;103H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"L5bitfun.c" 10L, 119B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ vi L5bitfun.cmake[K
+[?2004lcc    -c -o L5bitfun.o L5bitfun.c
+gcc -o L5bit L5bit.o L5bitfun.o
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make clean
+[?2004lmake: *** No rule to make target 'clean'.  Stop.
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ make clean[K
+[?2004lmake: 'L5bit' is up to date.
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ./L5bit
+[?2004lenter x and y2
+3
+0
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ./l5[K[KL5bit 5 6[K5
+[?2004lenter x and y4 5
+6
+0
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ ./L5bit 5 5
+[?2004lenter x and y3 5 5
+1
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ git [K ADD[K[K[Kadd L5bit.c L5.h L5bitfun L5arg.c Makefile 
+[?2004lfatal: pathspec 'L5bitfun' did not match any files
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ git add L5bit.c L5.h L5bitfun L5arg.c Makefile [1@.[1P[C[1@.[1@c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CL ab05.txt[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[?2004l[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ gir[Kt commit  [K-m "done whit[K[K[K[Kwith coding
+[?2004l[?2004h> done whith[K[K[K[Kith codint[K[K[King
+[?2004l[?2004h> kn
+[?2004l[?2004h> c[Kx[K^C[?2004l[?2004h[?2004l
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ git push
+[?2004l
+Everything up-to-date
+[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ 
+[?2004l[?2004habdi_2006@abdi06:~/Desktop/cs220/220-programming-in-c-and-unix-lab05-aabbdd200$ exit
+[?2004lexit
+
+Script done on 2026-10-19 13:53:01+00:00 [COMMAND_EXIT_CODE="0"]
